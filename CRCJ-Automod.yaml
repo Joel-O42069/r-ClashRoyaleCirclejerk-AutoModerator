@@ -14,6 +14,14 @@
 
 ---
 type: comment
+body: ban
+comment: literal speedrun to get banned. What else did you think was gonna happen you get handed a trophy and free blowjob from the mods
+---
+type: comment
+body: mega knight
+comment: There was an old lady walking with her grandkids at the store and it kind of reminded me of the witch with her skeletons. In my head I was thinking how satisfying it would be to drop an mk to instakill all those skellys and take care of the witch after. Is it normal or should I get help?
+---
+type: comment
 body: dark prince
 comment: "The helmet stays on during sex"
 ---
@@ -549,10 +557,6 @@ modmail_subject: Spamming Automod
 type: link submission
 URL: https://link.clashroyale.com
 action: remove
----
-# Fixes a problem we had where all posts were seemingly reported automatically by a user
-type: submission
-action: approve
 ---
 
 
