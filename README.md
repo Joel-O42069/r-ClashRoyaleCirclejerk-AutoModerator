@@ -6,5 +6,5 @@ Many of the content regulation scripts here were written by or modified from oth
 
 The Automoderator is is organized into the following sections
 1. Meme Responses
-2. Regulation
+2. Content Regulation
 3. Other Useful Scripts
