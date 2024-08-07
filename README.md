@@ -1,4 +1,4 @@
-This is the entire Automoderator of r/ClashRoyaleCirclejerk, last changed as of the 18th of July, 2024
+This is the entire Automoderator of r/ClashRoyaleCirclejerk, last changed as of the 6th of August, 2024
 
 Feel free to use whatever you want for this, or suggest changes :)
 
