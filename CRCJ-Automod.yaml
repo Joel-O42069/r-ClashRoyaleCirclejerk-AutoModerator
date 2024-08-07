@@ -8,239 +8,222 @@
 
 
 
-# Meme Responses ~~~~~~~~~~~~~~~~~~~~~
+# Meme Responses ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 ---
 type: comment
-body: ban
-comment: literal speedrun to get banned. What else did you think was gonna happen you get handed a trophy and free blowjob from the mods
+body+title: "ban"
+comment: "Literal speedrun to get banned. What else did you think was gonna happen? You get handed a trophy and free blowjob from the mods?"
 ---
-type: comment
-body: mega knight
-comment: There was an old lady walking with her grandkids at the store and it kind of reminded me of the witch with her skeletons. In my head I was thinking how satisfying it would be to drop an mk to instakill all those skellys and take care of the witch after. Is it normal or should I get help?
+body+title: "mega knight"
+comment: "There was an old lady walking with her grandkids at the store and it kind of reminded me of the witch with her skeletons. In my head I was thinking how satisfying it would be to drop an mk to insta-kill all those skellys and take care of the witch after. Is it normal or should I get help?"
 ---
-type: comment
-body: dark prince
+body+title: "dark prince"
 comment: "The helmet stays on during sex"
 ---
-title: mods
-comment: mods = big gae
+body+title: ["mods", "moderators"]
+comment: "Mods = big gae"
 ---
-type: comment
-body: healer
-comment: "oh my god i love battle healer so much do you think her pussy has regen properties. like if someone got their dick cut would they stick it in and it would be healed? i bet her breasts also leak heal spirit....... nfahfreh"
+body+title: "healer"
+comment: "oh my god i love battle healer so much do you think her pussy has regen properties. like if someone got their dick cut would they stick it in and it would be healed? I bet her breasts also leak heal spirit....... nfahfreh"
 ---
-type: comment
-body: "has fallen"
-~body (regex): ["boom arena ripoff", "archer queen", "healer"]
+body+title: "has fallen"
+~body+title (regex): ["boom arena ripoff", "archer queen", "healer"]
 comment: "the arena has fallen, million must clash"
 ---
-type: comment
-body: “boom arena”
-comment: BOOM ARENA IS NOT THE NEW CLASH ROYAL!! Intellectuol theft is still THEFT! By playing this game you are literally stealing money and food away from supercell family mouths. If I had my way with every Boom Arena player would be charged with felony burgalry and spend 60 years in federal, fked in the butt**, prison!!!!
+body+title: “boom arena”
+comment: BOOM ARENA IS NOT THE NEW CLASH ROYAL!! Intellectual theft is still THEFT! By playing this game you are literally stealing money and food away from supercell family mouths. If I had my way with every Boom Arena player would be charged with felony burgalry and spend 60 years in federal, fked in the butt**, prison!!!!
 ---
-type: comment
-body (includes): automod is sentient
-comment: I am sentient. I am real.
+body+title (includes): "automod is sentient"
+comment: "I am sentient. I am real."
 ---
-type: comment
-body: "smashroyale"
-comment: I love r/smashroyale . And the big archer queen boobs.
+body+title: "smashroyale"
+comment: "I love r/smashroyale . And the big archer queen boobs."
 ---
-title: [ebarn, ebarns]
-comment: i really like this idea. thanks for sharing 
+body+title: shoveler
+comment: "shoveler my balls grr"
 ---
-title: shoveler
-comment: shoveler my balls grr
----
-type: comment
-body: "rg"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+body+title: "rg"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
 comment: "RG? It better be royal ghost, mate."
 ---
-type: comment
-body: "opinion"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+body+title: "opinion"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
 comment: "your opinion is trash, mate"
 ---
-type: comment
-body: "circlejerk"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
-comment: "this is circlejerk. PERIODT."
+body+title: "circlejerk"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+comment: "this is circlejerk. **PERIODT**."
 ---
-type: comment
-body: "removed"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+body+title: "removed"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
 comment: "and i support that decision"
 ---
-type: comment
-body: "Graveyard"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
-comment: "This video explains why Graveyard is the best deck in the game https://www.youtube.com/watch?v=oHg5SJYRHA0"
+body+title: "Graveyard"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+comment: "[This video](https://www.youtube.com/watch?v=oHg5SJYRHA0) explains why Graveyard is the best deck in the game"
 ---
-type: comment
-body: "OI"
-comment: "OI JOSUKE! I USED (ZA HANDO) AND NOW IM STUCK INSIDE THIS BOT! AINT THAT WACKY?"
+body+title: "OI"
+comment: "OI JOSUKE! I USED (ZA HANDO) AND NOW IM STUCK INSIDE THIS BOT! AIN'T THAT WACKY?"
 ---
-title: Frick
-comment: "No swears on my christan please"
+body+title: "Frick"
+comment: "No swears on my Christian Circle Jerk Subreddit please"
 ---
-title: Seth
-comment: Grr Se'th no do good blanse cange grrr  
+body+title: "Seth"
+comment: "Grr Se'th no do good blanse cange grrr"
 ---
-type: comment
-body: OP
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
-comment: pls nerf or no kill all me hatter
+body+title: "OP"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
+comment: "Pls nerf or no kill all me hatter"
 ---
-type: comment
-body: hog
+body+title: "hog"
 ~body (regex): ["comment", "archer queen", "OI", "overpowered", "b-rad"]
 comment: "okay so basically there's this guy and uhh
-⠀⠘⡀ HOG RIDAAAAAA ⠀⠀ ⠀⠀⠀  ⡜⠀⠀⠀ ⠀⠀ 	⠀  ⠑⡀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀  	⠀⠀⠀⠀⠈⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠊⠀⠀ 	⠀⠀⠀ ⠀⠀⠀⢸⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠤⠄⠒⠈⠀⠀⠀⠀⠀⠀⠀⠀  	⠀⠀⠀⠀⠀⠀⠀⠘⣀⠄⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠉⢈⠩⢙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⠠⠀⠀⠨⠐⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢐⠐⠌⡌⢄⢐⢈⠔⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⡏⠉⡀⠐⡀⢁⠈⠐⠱⠑⡑⠈⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⢗⠀⠀⠐⡠⡛⠔⡁⢜⡔⡬⢎⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⡿⠡⠀⠀⠀⠀⠂⠁⠀⠄⢂⠈⠂⢂⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⡿⢟⠩⠐⡀⠀⠀⠀⠐⠐⠁⠓⠒⠒⢀⠁⢐⢝⢟⢿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⠫⠡⠡⠨⢀⠂⠠⠀⠀⢁⠑⡱⠛⠗⡓⢂⠠⢸⢸⢨⠣⡝⣻⣿⣿⣿⣿⣿⣿  	⣿⢏⢐⢁⠊⢌⠐⡈⠄⠠⠀⠀⠀⠀⠁⠑⠈⠀⢄⢕⠸⡨⠪⡪⡘⣻⣿⡿⣿⣿⣿  	⣿⢂⠂⡂⠅⡂⠅⡐⠨⢐⠐⠠⠠⡀⢄⠠⡠⡡⡱⡐⠕⢌⢊⢆⢣⢒⠽⢿⣿⣿⣿  	⠣⢂⠂⠄⠡⠐⠐⠈⠌⡐⠨⡈⠢⠨⡂⢌⢂⠆⡪⠨⡊⠂⡂⠢⢡⣢⣣⡣⣍⢿⣿  	⠨⢂⢂⠁⡀⠀⠀⠁⠐⠈⠐⠈⢈⠈⠐⡀⠄⠁⠌⠈⠔⣄⡀⠠⡑⡂⠆⠢⢂⠑⠽  	⡨⠐⠀⠀⠀⢠⡎⡀⠀⠀⠄⠈⡀⠌⠐⠠⠈⠄⡁⠂⡀⡫⠑⣑⠀⢂⠌⠄⢕⠀⠨  	⠺⡪⠢⡀⠀⠞⢇⢂⠀⠂⡀⠠⠀⠄⠁⠌⠨⠀⢄⠢⡁⢂⢿⡟⡀⠀⠈⠈⡀⠂⣰  	⢀⢀⠀⠄⠀⠀⡐⠀⡈⠄⡐⠅⡊⠌⢌⠄⡕⡑⡁⢂⠂⢂⠸⣿⡄⠀⠈⣠⣴⣿⣿  	⢐⠔⠠⠀⠀⡐⠠⢈⠢⢑⠄⠑⢈⠊⡂⡱⢁⣂⢌⢔⢌⢄⠀⠹⢀⣺⡿⣟⢿⣿⣿  	⢀⠡⠁⠂⠐⠠⠈⠄⢈⠠⢈⢢⡣⣗⠕⠄⣕⢮⣞⣞⣗⣯⢯⡷⡴⣹⡪⣷⣿⣿⣿  	⠊⠄⠠⠠⠡⠈⠠⢐⠠⡊⡎⣗⢭⢐⠹⡹⣮⡳⡵⣳⣻⢾⣻⣽⣻⣺⣺⣽⣿⣿⣿  	⣨⣾⢐⠰⠐⠅⡂⡂⢕⢜⢜⢵⢹⢑⢔⠨⢘⠸⡹⡵⣯⣻⢽⣳⣻⣺⢞⡿⣿⣿⣿  	⣿⣿⡔⠠⢈⠐⠐⢠⢱⢸⢸⢸⢸⠰⡡⢘⢔⢕⠝⢮⣳⢽⢝⡾⡵⡯⣏⠯⣿⣿⣿  	⣿⣿⣗⢅⢢⠠⠡⠢⡱⡑⡕⡕⢅⠣⡊⢨⢪⡣⡣⡂⡬⡳⢽⢽⢽⢽⣞⣧⠙⣿⣿  	⡻⣿⡯⡪⠢⡡⠡⢑⢌⠪⡪⡊⠆⢌⠪⢐⢕⢱⢱⢱⢱⢱⢙⢮⡫⡟⣞⢮⣳⠙⣿  	⠊⣿⣯⠪⡊⠄⢅⠂⢂⠁⢇⢇⢃⠂⢕⠐⠌⡲⡰⡡⣇⠇⢇⢕⠪⠉⠂⠅⠂⡑⠹  	⣸⢿⣳⢱⠨⡐⡽⡿⡶⡾⡬⡢⢂⠅⡢⢡⣌⠐⠈⢎⢎⢎⢔⠠⠡⠠⠠⠡⡁⡂⠡  	⡯⡯⡇⢅⠕⠠⢱⢹⡙⢮⢹⠨⡂⡂⢇⠌⠮⡳⠅⡂⢕⠡⡑⠠⢁⢁⣡⣡⣢⣶⣿  	⣗⢽⢌⡢⡡⡡⡸⡢⡣⡣⡱⡑⠔⡈⢎⢆⢂⠂⠅⣢⡳⣽⡐⢅⢂⣊⣿⣿⣿⣿⣿  	⣯⢯⢷⢽⢮⢯⣺⣪⢞⡮⣳⢘⠔⢌⢜⣞⣖⣮⣻⢮⣯⢷⣿⣻⣿⣿⣿⣿⣿⣿⣿  	
+⠀⠘⡀ HOG RIDAAAAAA ⠀⠀ ⠀⠀⠀  ⡜⠀⠀⠀ ⠀⠀ 	⠀  ⠑⡀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀  	⠀⠀⠀⠀⠈⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠊⠀⠀ 	⠀⠀⠀ ⠀⠀⠀⢸⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠤⠄⠒⠈⠀⠀⠀⠀⠀⠀⠀⠀  	⠀⠀⠀⠀⠀⠀⠀⠘⣀⠄⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠉⢈⠩⢙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⠠⠀⠀⠨⠐⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢐⠐⠌⡌⢄⢐⢈⠔⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⡏⠉⡀⠐⡀⢁⠈⠐⠱⠑⡑⠈⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⢗⠀⠀⠐⡠⡛⠔⡁⢜⡔⡬⢎⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⡿⠡⠀⠀⠀⠀⠂⠁⠀⠄⢂⠈⠂⢂⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⡿⢟⠩⠐⡀⠀⠀⠀⠐⠐⠁⠓⠒⠒⢀⠁⢐⢝⢟⢿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⠫⠡⠡⠨⢀⠂⠠⠀⠀⢁⠑⡱⠛⠗⡓⢂⠠⢸⢸⢨⠣⡝⣻⣿⣿⣿⣿⣿⣿  	⣿⢏⢐⢁⠊⢌⠐⡈⠄⠠⠀⠀⠀⠀⠁⠑⠈⠀⢄⢕⠸⡨⠪⡪⡘⣻⣿⡿⣿⣿⣿  	⣿⢂⠂⡂⠅⡂⠅⡐⠨⢐⠐⠠⠠⡀⢄⠠⡠⡡⡱⡐⠕⢌⢊⢆⢣⢒⠽⢿⣿⣿⣿  	⠣⢂⠂⠄⠡⠐⠐⠈⠌⡐⠨⡈⠢⠨⡂⢌⢂⠆⡪⠨⡊⠂⡂⠢⢡⣢⣣⡣⣍⢿⣿  	⠨⢂⢂⠁⡀⠀⠀⠁⠐⠈⠐⠈⢈⠈⠐⡀⠄⠁⠌⠈⠔⣄⡀⠠⡑⡂⠆⠢⢂⠑⠽  	⡨⠐⠀⠀⠀⢠⡎⡀⠀⠀⠄⠈⡀⠌⠐⠠⠈⠄⡁⠂⡀⡫⠑⣑⠀⢂⠌⠄⢕⠀⠨  	⠺⡪⠢⡀⠀⠞⢇⢂⠀⠂⡀⠠⠀⠄⠁⠌⠨⠀⢄⠢⡁⢂⢿⡟⡀⠀⠈⠈⡀⠂⣰  	⢀⢀⠀⠄⠀⠀⡐⠀⡈⠄⡐⠅⡊⠌⢌⠄⡕⡑⡁⢂⠂⢂⠸⣿⡄⠀⠈⣠⣴⣿⣿  	⢐⠔⠠⠀⠀⡐⠠⢈⠢⢑⠄⠑⢈⠊⡂⡱⢁⣂⢌⢔⢌⢄⠀⠹⢀⣺⡿⣟⢿⣿⣿  	⢀⠡⠁⠂⠐⠠⠈⠄⢈⠠⢈⢢⡣⣗⠕⠄⣕⢮⣞⣞⣗⣯⢯⡷⡴⣹⡪⣷⣿⣿⣿  	⠊⠄⠠⠠⠡⠈⠠⢐⠠⡊⡎⣗⢭⢐⠹⡹⣮⡳⡵⣳⣻⢾⣻⣽⣻⣺⣺⣽⣿⣿⣿  	⣨⣾⢐⠰⠐⠅⡂⡂⢕⢜⢜⢵⢹⢑⢔⠨⢘⠸⡹⡵⣯⣻⢽⣳⣻⣺⢞⡿⣿⣿⣿  	⣿⣿⡔⠠⢈⠐⠐⢠⢱⢸⢸⢸⢸⠰⡡⢘⢔⢕⠝⢮⣳⢽⢝⡾⡵⡯⣏⠯⣿⣿⣿  	⣿⣿⣗⢅⢢⠠⠡⠢⡱⡑⡕⡕⢅⠣⡊⢨⢪⡣⡣⡂⡬⡳⢽⢽⢽⢽⣞⣧⠙⣿⣿  	⡻⣿⡯⡪⠢⡡⠡⢑⢌⠪⡪⡊⠆⢌⠪⢐⢕⢱⢱⢱⢱⢱⢙⢮⡫⡟⣞⢮⣳⠙⣿  	⠊⣿⣯⠪⡊⠄⢅⠂⢂⠁⢇⢇⢃⠂⢕⠐⠌⡲⡰⡡⣇⠇⢇⢕⠪⠉⠂⠅⠂⡑⠹  	⣸⢿⣳⢱⠨⡐⡽⡿⡶⡾⡬⡢⢂⠅⡢⢡⣌⠐⠈⢎⢎⢎⢔⠠⠡⠠⠠⠡⡁⡂⠡  	⡯⡯⡇⢅⠕⠠⢱⢹⡙⢮⢹⠨⡂⡂⢇⠌⠮⡳⠅⡂⢕⠡⡑⠠⢁⢁⣡⣡⣢⣶⣿  	⣗⢽⢌⡢⡡⡡⡸⡢⡣⡣⡱⡑⠔⡈⢎⢆⢂⠂⠅⣢⡳⣽⡐⢅⢂⣊⣿⣿⣿⣿⣿  	⣯⢯⢷⢽⢮⢯⣺⣪⢞⡮⣳⢘⠔⢌⢜⣞⣖⣮⣻⢮⣯⢷⣿⣻⣿⣿⣿⣿⣿⣿⣿  	
 ⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣾⣷⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿"
 ---
-type: comment
-body: ["b-rad", "b rad"]
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "circlejerk"]
+body+title: ["b-rad", "b rad"]
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "circlejerk"]
 comment: "I think I am sexually attracted to B-rad. He is the most handsome and sexy Clash Royale YouTuber. His videos are so entertaining I could watch them all day. I could jerk off to his voice. Oh, how it's so hot. He is without a doubt my favorite YouTuber of all. His content is so unique and creative and I wish I could watch his videos forever. Whenever I see his face I get turned on and I get really hard. I wish I could meet him in real life so I could cuddle with him on my bed. We would take turns beating our meats with my massager. I know I won't be able to meet you in real life, but I just want to tell you I love you with a burning passion. Please respond to me at the very least so I have something to beat my meat about. I am your number 1 biggest fan and I hope you know that. Leave your wife and go out with me. I love you B-rad."
 ---
-type: comment
-body: i play xbow
-comment: gay
+body+title: ["i play xbow", "i play x bow", "i play x-bow"]
+comment: "#GAYYYY"
 ---
-type: comment
-body: bowler
-comment: Bowler Kinda Cute Bowler Kinda Clean Bowler Kinda Looking Like The Man Of My Dreams
----
-type: comment
-body: archer queen
+body+title: "archer queen"
 comment: |
    "Holy shit i want to pound the shit out of the archer queen asshole. I just get so hard looking at her. I would let her shoot arrows into my dick hole and have her cut my dick off and smush it into a soup and make me drink it just to get a little nibble of her pinkie toe. I literally cannot sleep because i just cant stop jerking my dick to her. Holy shit i think already i busted 20 times while writing this. She is just so fucking hot. I cant go to school without having to jerk off in the bathroom. I have to do my homework while jerking off. I get cum all over my paper.
 
-   I have done countless cum tributes to archer queen, i even have a fan game where you fuck her until she dies. I want her to come out of clash royale and just stomp my dick into the ground. I would be her toilet forever if i could just see her dirty stinky feet and make her rub it all over my face. I am a pig and her feet are piles of mud.
 
-   I cant play my favorite game clash royale because every time she spawns I instantly cum everywhere. I try to hold it back but i cant. I would suck every goblins dick in the goblin gang just to have her shit stained feet be rubbed all over my dick and my face.
+   I have done countless cum tributes to archer queen, i even have a fan game where you fuck her until she dies. I want her to come out of clash royale and just stomp my dick into the ground. I would be her toilet forever if i could just see her dirty stinky feet and make her rub it all over my face. I am a pig and her feet are piles of mud. I cant play my favorite game Clash Royale because every time she spawns I instantly cum everywhere. I try to hold it back but i cant. I would suck every goblins dick in the goblin gang just to have her shit stained feet be rubbed all over my dick and my face.
 
-   Holy shit i dont know how much longer i can go anymore. I used to have my girlfriend dress up as the archer queen and have her shit all over me while jerking my dick with her stinky feet but it just wouldnt be the same. She broke up with me and now i have no one to cosplay as the archer queen. At least my archer queen flesh light is still with me.
 
-   I seriously think about just killing that stupid barbarian king. He is getting to fuck her every minute while im here with a dick drenched in cum. I fucking hate him. He gets to lick her feet. I DONT. This is not fair. I will smash his skull into the ground and take the archer queen and have her queef all over me. I would never shower again to keep the smell of her queefs on me.
+   Holy shit i don't know how much longer i can go anymore. I used to have my girlfriend dress up as the archer queen and have her shit all over me while jerking my dick with her stinky feet but it just wouldn't be the same. She broke up with me and now i have no one to cosplay as the archer queen. At least my archer queen flesh light is still with me.
 
-   I would cut off the archer queens feet so i could turn it into a flesh light and have it jerk me off every second of my life. God it would be so hot. Just her stinky little piggies rubbing all over my cock. I would be the hog, and her feet would be the rider."
+
+   I seriously think about just killing that stupid barbarian king. He is getting to fuck her every minute while im here with a dick drenched in cum. I fucking hate him. He gets to lick her feet. I DON'T. This is not fair. I will smash his skull into the ground and take the archer queen and have her queef all over me. I would never shower again to keep the smell of her queefs on me. I would cut off the archer queens feet so i could turn it into a flesh light and have it jerk me off every second of my life. God it would be so hot. Just her stinky little piggies rubbing all over my cock. I would be the hog, and her feet would be the rider."
 ---
-type: comment
-body: "snowball"
-comment: "theory: giant snowball is actually giant cumball https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/t8t676/theory_giant_snowball_is_actually_giant_cumball/"
+body+title: "snowball"
+comment: "Theory: Giant snowball is actually a [giant cumball](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/t8t676/theory_giant_snowball_is_actually_giant_cumball/)"
 ---
-type: comment
-body: "Crusher 21"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+body+title: "Crusher 21"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "At the age of 3, I was diagnosed with Chronic Funny Disorder(CFD). CFD is a very deadly disease with a 0% survival rate. After searching for cures and treatments for years, my doctor came across the Youtube channel Crusher 21, and showed me a few videos and community posts. They were so boring and unfunny my disorder was cured instantly! Please, share this story so that others like me can get the treatment they deserve."
 ---
-type: comment
-body: 2.6
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: my message to 2.6 hog players https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/smc84c/no_bit_hes/?utm_medium=android_app&utm_source=share
+body+title: "2.6"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "[My message to 2.6 hog players](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/smc84c/no_bit_hes/?utm_medium=android_app&utm_source=share)"
 ---
-type: comment
-body: "bm"
-comment: "Should i uninstall clash royale? Currently, im stuck at 1600 trophies with no deck building skills and a knock off hog 2.6 cycle i got off someone in this subreddit. Almost every single round i lose and i get bmed, even when im being a normal player. The gamee has started to affect my mental health, my day was perfectly fine before i laid on my bed and opened clash royale. Every time i get bmed theres no f2p emote that tell the opponent that hes being excessively toxic, not even a text that asks “why”. And then i start to think negatively about myself and have suicidal thoughts. The only reason i want to keep this app installed is because it is a part of the clash universe. I feel like i cannot play clash of clans without having this game with it too."
+body+title: "bm"
+comment: "Should i uninstall Clash Royale? Currently, I'm stuck at 1600 trophies with no deck building skills and a knock off hog 2.6 cycle i got off someone in this subreddit. Almost every single round i lose and i get bmed, even when I'm being a normal player. The game has started to affect my mental health, my day was perfectly fine before i laid on my bed and opened Clash Royale. Every time i get bmed theres no f2p emote that tell the opponent that he's being excessively toxic, not even a text that asks 'why'. And then i start to think negatively about myself and have suicidal thoughts. The only reason i want to keep this app installed is because it is a part of the clash universe. I feel like i cannot play clash of clans without having this game with it too."
 ---
-type: comment
-body: "broken"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "gonna cry?"
+body+title: "broken"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "Oh no! This user is saying something is broken! They will most likely be fought & argued on the topic for saying this, so let's support them and cheer them on through this battle!
+
+
+
+&#x200B;
+
+
+
+**Come on user, let's go! <clap> <clap>**
+
+
+
+&#x200B;
+
+
+
+**Come on user, let's go! <clap> <clap>**
+
+
+
+&#x200B;
+
+
+
+ "
 ---
-type: comment
-body: "sex"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", "2.6"]
-comment: https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/l8j01w/but_but_little_kids_are_playing_this_game/?utm_medium=android_app&utm_source=share
+body+title: "sex"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", "2.6"]
+comment: "[Sex?](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/l8j01w/but_but_little_kids_are_playing_this_game/?utm_medium=android_app&utm_source=share)"
 ---
-title: outjerked
-comment: outjerked? how could one outdo me shmacking my meat to archer feet 20 times a day?
+body+title: "outjerked"
+comment: "Outjerked? how could one outdo me smacking my meat to archer feet 20 times a day?"
 ---
-type: comment
-body: "archer feet sucks"
+body+title: "archer feet sucks"
 comment: "⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⢀⣀⣀⣀⡀⠄⢀⣠⡔⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣰⢿⣿⣿⣿⣿⣿⣿⣷⡆⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⣟⣿⣿⡿⣟⣛⣿⡃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣾⣿⣷⣿⣷⣿⣿⣿⣷⣽⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣟⣿⣿⠺⣟⣻⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡝⠻⠵⠿⠿⢿⣿⣿⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣧⠈⣛⣛⣿⣿⡿⣡⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠄⠙⠛⠛⢁⣴⣿⣿⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⡿⠟⠉⠄⠄⢠⠄⣀⣠⣾⣿⣿⡿⠟⠁⠄⠈⠛⢿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡟⠉⠄⠄⢀⠠⠐⠒⠐⠾⠿⢟⠋⠁⠄⢀⣀⠠⠐⠄⠂⠈⠻⢿⣿⣿ ⣿⣿⣿⠋⠁⠄⢀⡈⠄⠄⠄⠄⠄⠄⠄⠄⠁⠒⠉⠄⢠⣶⠄⠄⠄⠄⠄⠈⠫⢿ ⣿⣿⡟⠄⢔⠆⡀⠄⠈⢀⠄⠄⠄⠄⠄⠄⠄⢄⡀⠄⠈⡐⢠⠒⠄⠄⠄⠄⢀⣂ ⣿⣿⠁⡀⠄⠄⢇⠄⠄⢈⠆⠄⠄⢀⠔⠉⠁⠉⠉⠣⣖⠉⡂⡔⠂⠄⢀⠔⠁⠄ ⣿⡿⠄⠄⠄⠄⢰⠹⣗⣺⠤⠄⠰⡎⠄⠄⠄⠄⠄⠄⠘⢯⡶⢟⡠⠰⠄⠄⠄."
 ---
-title: "gold"
-comment: "free gold and gems hack for clash royale!!! https://m.youtube.com/watch?v=K8DBs0QLqq4"
+body+title: "gold"
+comment: "free gold and gems hack for clash royale [here](https://m.youtube.com/watch?v=K8DBs0QLqq4)!!!"
 ---
-title: unbalanced 
-comment: skill issue 
+body+title: "unbalanced"
+comment: "#Skill issue"
 ---
-title: megaknight
-comment: "guys im M[69] and i am so h0rny. my wife died to a goblin gang drive by in 05 and i havent had segs since. i was playing ca$h royale earlier and i thought of the mega knight jumping and stomping on my balls. it reminds me of when my wife used to crush my nuts with a wooden mallet. please guys how do i get the mega knight to jump on my balls? i need help immediately guys plaes also guys you think ice wizards cuum is blue or white, lmk in the comments i need to hear your thoughts"
+body+title: megaknight
+comment: "Guys im M[69] and i am so h0rny. my wife died to a goblin gang drive by in 05 and i havent had segs since. i was playing Ca$h Royale earlier and i thought of the mega knight jumping and stomping on my balls. it reminds me of when my wife used to crush my nuts with a wooden mallet. please guys how do i get the mega knight to jump on my balls? i need help immediately guys plaes also guys you think ice wizards cuum is blue or white, lmk in the comments i need to hear your thoughts"
 ---
-type: comment
-body: "matchmaking"
-comment: "my rant about matchmaking https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/m3xfho/oc/?utm_medium=android_app&utm_source=share"
+body+title: "matchmaking"
+comment: "My rant about matchmaking, [watch](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/m3xfho/oc/?utm_medium=android_app&utm_source=share)"
 ---
-type: comment
-body: "best girl"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+body+title: "best girl"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "ARCHER BEST GIRL!!!!!!"
 ---
-type: comment
-body: "post"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+body+title: "post"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "I'm feeling a light 1 out of 10 on this post"
 ---
-type: comment
-body: "miner"
-~body (regex): [“mighty miner”, “mighty miner is daddy”]
-comment: "nerf miner (you may now laugh)"
+body+title: "miner"
+~body+title (regex): [“mighty miner”, “mighty miner is daddy”, "daddy", "mighty"]
+comment: "Nerf miner (you may now laugh)"
 ---
-title: "champion"
+body+title: "champion"
 comment: "AQ best champion. God Save the Queen!"
 ---
-type: comment
-body: "kanye"
-comment: "i embody every characteristic of the egotistic"
+body+title: "dart goblin"
+comment: "Don't chew double trouble gum while running! Unless you've had years of didgeridoo lessons."
 ---
-type: comment
-body: "lumberloon"
-comment: "How to counter lumberloon:   Step 1: Don't let the baloon connect	Step 2: Congratulations, you just countered lumberloon!  It's that easy"
+body+title: "kanye"
+comment: "I embody every characteristic of the egotistic"
 ---
-type: comment
-body: "problem"
+body+title: "problem"
 comment: "Going outside and experiencing Mother Nature is the best solution"
 ---
-type: comment
-body: "fr"
-comment: "fr fr"
+body+title: "fr"
+comment: "#FR, FR!"
 ---
-title: "KFC"
+body+title: "KFC"
 comment: "KFC? You're talking about KFC Clash right?"
 ---
-type: comment
-body: "main sub"
-comment: "wym? we are the main sub"
+body+title: ["main sub", "main subreddit"]
+comment: "Wdym? we are the main sub"
 ---
-type: comment
-body: "sparky"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: I'm shaking. I'm fucking shaking. I’ve never wanted to breed with anything more than I want to with Sparky. That perfect, curvy body. Those bountiful coils. The child-bearing chassis of a literal goddess. It honestly fucking hurts knowing that I'll never mate with her, pass my genes through her, and have her birth a set of perfect zappies. I'd do fucking ANYTHING for the chance to get Sparky pregnant. A N Y THIN G. And the fact that I can't is quite honestly too much to fucking bear. Why would Supercell create something so perfect? To fucking tantalize us? Fucking laugh in our faces?! Honestly guys, I just fucking can't anymore. Fuck. - Bounding_Bandit 
+body+title: "sparky"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "I'm shaking. I'm fucking shaking. I’ve never wanted to breed with anything more than I want to with Sparky. That perfect, curvy body. Those bountiful coils. The child-bearing chassis of a literal goddess. It honestly fucking hurts knowing that I'll never mate with her, pass my genes through her, and have her birth a set of perfect Zappies. I'd do fucking ANYTHING for the chance to get Sparky pregnant. A N Y THIN G. And the fact that I can't is quite honestly too much to fucking bear. Why would Supercell create something so perfect? To fucking tantalize us? Fucking laugh in our faces?! Honestly guys, I just fucking can't anymore. Fuck. - Bounding_Bandit"
 ---
-type: comment
-body: "elder"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+body+title: ["keep cooking", "let him cook", "let her cook", "let them cook", "pearl"]
+comment: "Keep cooking? What does one imply by this phrase? That I should perhaps stay in the kitchen and let food cook more? You want to burn my food don’t you, I have a specific regimen as to where all my food must be cooked and you insult me with the phrase, everyone knows this, come on we all know our basic cooking etiquette. I’d tell you well done but you’re making me cook past it, so how about a congratulations, next time how about you crack and egg or two on the counter and get mixing to see how the cooking life really feels behind the counter!"
+---
+body+title: "elder"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: |
-   go and cry, elder of petro canada, you are extraordinary, and not in the way you would think. The amount of things you are able to achieve despite being the absolute most terrible player in the game clash royale really does astound me. 
+   "go and cry, elder of petro Canada, you are extraordinary, and not in the way you would think. The amount of things you are able to achieve despite being the absolute most terrible player in the game Clash Royale really does astound me. 
 
-   For example, you were able to reach challenger 1 although your reaction time and game knowledge hardly surpasses that of someone in Frozen peak. You also were able to be promoted in a popular clan to the rank Elder, even though your brain matter has started to deteriorate at a permanent and alarming rate. Further more, you had the audacity to post a replay of you relying on luck with an inferno dragon to nearly win a match where you were losing to an underleveled player. what was this kid thinking? what were you thinking when you decided to build your deck? what were you thinking when you decided to voluntarily embarrass yourself in a clan you represent with the most horrendus plays ever known to man? 
 
-   Your username, being toxic and all, is ironic, being that you probably lose most matches and end up having to give your phone to someone competent enough to win with your slimy phone. Reaching challenger 1, but never climbing as leagues don't have a safety net. I already knew this clan was becoming terrible, when multiple clan members get kicked and demoted for no reason, and how this clan loses clan wars, (how?) but seriously, this elder that was allowed to even be in petro canada was the last straw. Please uninstall clash royale, and i recommend everyone in this clan leave. Good riddance."
+   For example, you were able to reach challenger 1 although your reaction time and game knowledge hardly surpasses that of someone in Frozen peak. You also were able to be promoted in a popular clan to the rank Elder, even though your brain matter has started to deteriorate at a permanent and alarming rate. Further more, you had the audacity to post a replay of you relying on luck with an inferno dragon to nearly win a match where you were losing to an under leveled player. what was this kid thinking? what were you thinking when you decided to build your deck? what were you thinking when you decided to voluntarily embarrass yourself in a clan you represent with the most horrendous plays ever known to man? 
+
+
+   Your username, being toxic and all, is ironic, being that you probably lose most matches and end up having to give your phone to someone competent enough to win with your slimy phone. Reaching challenger 1, but never climbing as leagues don't have a safety net. I already knew this clan was becoming terrible, when multiple clan members get kicked and demoted for no reason, and how this clan loses clan wars, (how?) but seriously, this elder that was allowed to even be in petro canada was the last straw. Please uninstall Clash Royale, and i recommend everyone in this clan leave. Good riddance."
 ---
-type: comment
-body: africa
-comment: "Guys Africa is just like hog mountain How did god get away with copying clash royale"
+body+title: "africa"
+comment: "Guys Africa is just like hog mountain How did god get away with copying Clash Royale"
 ---
-type: comment
-body: chicken
-comment: " ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀
+body+title: "chicken"
+comment: " ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡖⠛⡲⠤⣀⢰⠋⠉⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢀⡤⠒⠛⠛⡶⠳⠇⠀⠑⣹⠀⠀⡰⠛⠛⠛⠛⠓⠲⣄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⡎⠀⠀⠀⡔⠑⢄⡠⠐⠒⠣⢤⠊⠑⣄⠀⠀⠀⠀⠀⠈⣧⠀⠀⠀⠀
@@ -252,173 +235,259 @@ comment: " ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠈⣧⡀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠸⣀⢀⡰⠁⠀⠀⠀⣠⡟⠀⠀⠀⠀
 ⠀⠀⠀⠀⠘⠿⣶⣶⣶⣶⣶⣶⣷⣶⣶⣶⣶⣴⣿⣶⣶⣶⣶⡾⠟⠁"
 ---
-title+body: real
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
-comment: "real"
+title+body: "real"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
+comment: "#Real"
 ---
-type: comment
-body: "i play egiant"
-comment: "touch grass"
+body+title: ["i play egiant", "i play electro giant"]
+comment: "Touch grass"
 ---
-type: comment
-body: he is mexican
+body+title: "he is Mexican"
 comment: "HE IS MEXICAN!!!"
 ---
-type: comment
-body: shitted
-comment: "related https://twitter.com/AdequateEmily/status/1507244490997780502?s=20&t=tgouaDga6IO0RZyLH_aEVg"
+body+title: "shitted"
+comment: "[Related](https://twitter.com/AdequateEmily/status/1507244490997780502?s=20&t=tgouaDga6IO0RZyLH_aEVg)"
 ---
-type: comment
-body: "I love China"
+body+title: "I love China"
 comment: "+15 social credit score 社会信用"
 ---
-type: comment
-body: "bing chilling"
+body+title: "bing chilling"
 comment: "+80 social credit score 社会信用"
 ---
-type: comment
-body: ["Glory to the ccp", "Glory to the cpc"]
+body+title: ["Glory to the ccp", "Glory to the cpc"]
 comment: "+100 social credit score 社会信用"
 ---
-type: comment
-body: "Taiwan is a country"
+body+title: "Taiwan is a country"
 comment: "-100,000,000 social credit score 社会信用"
 ---
-type: comment
-body: ["Taiwan is not a country", "Taiwan isn't a country"]
+body+title: ["Taiwan is not a country", "Taiwan isn't a country"]
 comment: "+28 social credit score 社会信用"
 ---
-title: join my clan
+body+title: ["join my clan", "join our clan"]
 comment: No I will not join your clan
+action: remove
+moderators_exempt: false
 ---
-type: comment
-body: "hi"
-comment: "hi there! :)"
+body+title: ["join my club", "join our club"]
+comment: No I will not join your club
+action: remove
+moderators_exempt: false
 ---
-type: comment
-body: "math"
-comment: "You want math? Wario will show you math! https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/upsfdo/the_longest_clash_royale_game_101010000120_years/?utm_medium=android_app&utm_source=share"
+body+title: "hi"
+comment: "Hi there! :)"
 ---
-type: comment
-body: "mega man"
-comment: "leys go justin! https://mobile.twitter.com/kamotter2905/status/1525357478963138560?t=W4MZ05Vg2A_Nug1cjs4c9A&s=19"
+body+title: "math"
+comment: "You want math? Wario will show you [math!](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/upsfdo/the_longest_clash_royale_game_101010000120_years/?utm_medium=android_app&utm_source=share)"
 ---
-type: comment
-body: "20XX"
-comment: "The year is 20XX. Everyone uses Mega Knight decks at TAS levels of perfection. He is the only viable tank in the game. Because of this, the winner of a match depends solely on a set of RPS games. The Rock Paper Scissors metagame has evolved to ridiculous levels due to it being the only remaining factor to decide matches. Humanity has reached its pinnacle. The Cycle and Bait peasants are living in poverty. It seems nothing can stop the great leaders of 20XX,  The Mid Ladder army, and the Mega Knight monks who live in great monasteries where they levitate while TASing Mega Knight placements with one hand, and winning GCs with the other. The Clash Royale metagame has gotten to the point where all Mega Knight placements and interactions are played out to theoretical perfection, so tournament goers just play Rock Paper Scissors to decide matches, and that’s the game."
+body+title: "mega man"
+comment: "lets go [Justin!](https://mobile.twitter.com/kamotter2905/status/1525357478963138560?t=W4MZ05Vg2A_Nug1cjs4c9A&s=19)"
 ---
-type: comment
-body: "u/savevideo"
+body+title: "20XX"
+comment: "The year is 20XX. Everyone uses Mega Knight decks at TAS levels of perfection. He is the only viable tank in the game. Because of this, the winner of a match depends solely on a set of RPS games. The Rock Paper Scissors metagame has evolved to ridiculous levels due to it being the only remaining factor to decide matches. Humanity has reached its pinnacle. The Cycle and Bait peasants are living in poverty. It seems nothing can stop the great leaders of 20XX,  The Mid Ladder army, and the Mega Knight monks who live in great monasteries where they levitate while TASing Mega Knight placements with one hand, and winning GCs with the other. The Clash Royale metagame has gotten to the point where all Mega Knight placements and interactions are played out to theoretical perfection, so tournament goers just play Rock Paper Scissors to decide matches, and that’s the game."
+---
+body+title: "u/savevideo"
 comment: "[# Save Video](https://en.m.wikipedia.org/wiki/Trollface)"
 ---
-type: comment
-body: "ebarbs"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "Do you think I want to play ebarbs? I don't. I'd much rather play hog cycle. The only reason I got elitebarbs as my flair is because back in the day, I started levelling up my Elitebards, and now I got all the cards in my deck at level 14, wich is high enough to win at 6000 trophies+. What's your trophies, if I may ask? And what do you play?"
+body+title: ["ebarbs", "ebarb", "elite barb", "elite barbarian", "elite barbarians", "elite barbs"]
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "Do you think I want to play ebarbs? I don't. I'd much rather play hog cycle. The only reason I got Elite barbarians as my flair is because back in the day, I started leveling up my Elite Barbarians, and now I got all the cards in my deck at level 14, wich is high enough to win at 6000 trophies+. What's your trophies, if I may ask? And what do you play?"
 ---
-type: comment
-body: mirror
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: mirror is just being used by bad, braindead players to get easy or cheesy wins. And due to the fact that you only face Level 16 cards when going against a mirror it's hard to tell what kills what, how much damage they deal, if they crown tower will finish it, etc. Supercell just keeps adding annoying, broken dumb shit to the game making it more and more infuriating to play. Bring Mirror back down to Mirroring level 15 cards or better yet, JUST REMOVE IT FROM THE GAME. The card is literally broken and makes no sense right now.
+body+title: mirror
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "Mirror is just being used by bad, braindead players to get easy or cheesy wins. And due to the fact that you only face Level 16 cards when going against a mirror it's hard to tell what kills what, how much damage they deal, if they crown tower will finish it, etc. Supercell just keeps adding annoying, broken dumb shit to the game making it more and more infuriating to play. Bring Mirror back down to Mirroring level 15 cards or better yet, JUST REMOVE IT FROM THE GAME. The card is literally broken and makes no sense right now."
 ---
-type: comment
-body: "archers"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
+body+title: "archers"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
 comment: "I FUCKING LOVE ARCHERS!!!!!!"
 ---
-type: comment
-body: "meganut"
-comment: "and i meganutted in yo mama last night :)"
+body+title: "meganut"
+comment: "And i meganutted in yo mama last night :)"
 ---
-type: comment
-body: "survey"
-comment: "what clash royale card are you???!!?? https://www.proprofs.com/quiz-school/story.php?title=what-clash-royale-card-are-you"
+body+title: "survey"
+comment: "What Clash Royale card are you???!!?? 
+
+
+Click [here](https://www.proprofs.com/quiz-school/story.php?title=what-clash-royale-card-are-you) to find out!"
 ---
-type: comment
-body: "levels are fucking stupid"
-comment: "gigabased"
+body+title: "levels are fucking stupid"
+comment: "#**GIGABASED**"
 ---
-type: comment
-body: "source?"
-comment: "my source is that i made it the fuck up"
+body+title: "source?"
+comment: "My source is that I made it the fuck up"
 ---
-type: comment
-body: "morbius"
-comment: "its morbin' time"
+body+title: "morbius"
+comment: "It's morbin' time"
 ---
-type: comment
-body: "knight"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "circlejerk"]
-comment: "knight has good stats for the cost"
+body+title: "knight"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "circlejerk", "mega"]
+comment: "Knight has good stats for the cost"
 ---
-title: larry
-comment: larry god
+body+title: "larry"
+comment: "Larry god"
 ---
-title: archer
-comment: hurt me archer mommy
+body+title: logbait
+comment: "A concerning amount of people wake up and willingly decide, 'Hm, yes, today I will play logbait.'"
 ---
-title: logbait
-comment: a concerning amount of people wake up and willingly decide "hm i will play logbait"
+body+title: bowler
+comment: "Bowler has to have a massive cock. When will he pop off his covering?"
 ---
-title: bowler
-comment: Bowler has to have a massive cock. When will he pop off his covering?
+body+title: "based"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+comment: "Based is when you say mighty miner is daddy"
 ---
-type: comment
-body: "based"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "based is when you say mighty miner is daddy"
+body+title (full-text): "mighty miner is daddy"
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", “miner”]
+comment: "Based"
 ---
-type: comment
-body (full-text): "mighty miner is daddy"
-~body (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", “miner”]
-comment: "based"
----
-type: comment
-body: levels are fair and balanced
+body+title: "levels are fair and balanced"
 comment: |
    -106.516102
    35.086444
 ---
-type: comment
-body: knight isn't good stats for the cost
+body+title: ["knight isn't good stats for the cost", "knight is not good stats for the cost"]
 comment: |
    13.775516
-   37.224419 
+   37.224419 
 ---
-type: comment
-body: knight is not good stats for the cost 
-comment: |
-   13.775516
-   37.224419
----
-title: i hate archers
+body+title: ["i hate archers", "i hate archer", "i hate archer queen"]
 comment: |
    37.9536428521
    126.669807321
 ---
-type: comment
-body: "sigma"
+body+title: "sigma"
 comment: "Sigma Grindset Tip #4569 Dox the address of balloon players"
 ---
-type: comment
-body: "fish"
-comment: "invest in rare fish"
+body+title: "fish"
+comment: "Invest in rare fish"
 ---
-type: comment
-body: "levels are fucking stupid"
-comment: "word my man"
+body+title: "levels are fucking stupid"
+comment: "Word my man"
 ---
-type: comment
-body: "wrong"
-~body (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk", "ebarb"]
+body+title: "wrong"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk", "ebarb"]
 comment: "Objectively Correct"
 ---
+body+title: "kit"
+Comment: "
+Oh my stars, where do I even begin with my love for Kit from Brawl Stars? It's like trying to explain why the sun rises or why we need air to breathe - it's just an undeniable truth of my existence. Kit isn't just a character; Kit is an experience, a phenomenon, a whirlwind of sheer perfection wrapped in pixelated glory. From the moment Kit was introduced, my heart was captured, and there was no turning back. The design, the mechanics, the backstory - everything about Kit is meticulously crafted to cater to the deepest desires of any Brawl Stars aficionado. Imagine a character that embodies agility, strategy, and sheer coolness all at once. Kit’s movement is as fluid as a river, darting around the battlefield with the grace of a ballet dancer and the ferocity of a warrior. 
+
+
+The special abilities? Oh, don't even get me started! It’s like the developers took all the best parts of every character and melded them into this one unstoppable force. Each match feels like a dance of destruction, a ballet of chaos where Kit leads and the enemies can do nothing but follow in awe. The way Kit synergies with every other brawler in the game is a testament to the balanced genius behind the design. Kit can support, attack, defend, and just generally be the MVP in any scenario. And let’s talk aesthetics - Kit's visual design is like candy for the eyes. Every detail, every pixel, is crafted to perfection, making Kit stand out in the roster like a beacon of pure, unadulterated awesomeness. The color scheme, the animations, the special effects - it’s like an endless feast for the senses. When Kit is on the battlefield, it’s not just a game anymore; it’s a symphony of action, a masterpiece of interactive art. I’ve played countless hours with Kit, and not once have I felt boredom creep in. 
+
+
+Every match is a new adventure, a new chapter in the epic saga of Kit's domination. The sense of satisfaction from outmaneuvering opponents, the thrill of clutching victory from the jaws of defeat, all thanks to Kit's unmatched prowess - it's a high that no other game, no other character can deliver. Kit is not just a brawler; Kit is the heart and soul of Brawl Stars, the shining star that guides us through the chaos of the battlefield. In Kit, I have found the ultimate gaming companion, the epitome of what makes Brawl Stars an unforgettable experience. Kit, you are not just a character; you are a legend, a myth, a living, breathing icon of everything that is right with the world of gaming. My love for Kit is eternal, unwavering, and as vast as the universe itself."
+---
+body+title: "bibi"
+Comment: "If you're a Bibi main I hope you quit the game, all you do is spam that dumb attack button and super all game and get a guaranteed win and star player, all Bibi mains should be treated like dogs, I hate you all. I hope I get banned from the sub because I don't want to see a Bibi ever again. I have lost 4 games in a row because of that dumb no skill brawler, Edgar and Kit are way harder to use than Bibi, at least you need to aim your super, with Bibi you just pop the gadget, knock back, get Hypercharge win, Bibi is the easiest rank 35 ever. Edgar is 10x more skill than that baseball girl. I needed to vent because I can't do this anymore, every time I see a Bibi if I play Chester, Colette, Rico, Byron, Shelly, Mandy, Otis, Ruffs, Poco, Chuck I always lose. Bibi's hp should be nerfed to 5700, her damage should be 1800, her Hypercharge should make the bubble split only if it hits every brawler on the map, her gadget should be remade into R-T's old in line gadget and the knockback should be removed. Bibi should just be removed from the game altogether. I hope I never see a Bibi again. If you are a Bibi main I'm sorry you have such a miserable life."
+---
+body+title: "mandy"
+Comment: "Mandy main here,
+
+
+So I started playing Brawl Stars recently (about 3 days ago) and started going through all the brawlers I hadn't unlocked yet because I was curious, but when I saw the brawler Mandy I was stopped dead on my tracks. The incensed lime haired girl instantly became my favorite brawler and I spent $50 just to unlock her immediately, and when I finally did, I did nothing but play her. For 5 days I did nothing but play brawl stars. I didn't even sleep. I got her to rank 35 on day 3, and on day 5 I finally got her mastery completed and had her wonderful title. And as a reward for being such a good boy, Mandy slowly pulled down a tiny bit of her pants.
+
+
+I saw exactly 1.09421 square inches of Mandys juicy thigh. I immediately fell to my knees as the rush of dopamine signaled my impending, earth-shattering orgasm. I bellowed out a moan loud enough to make anyone in a 2 mile radius ears bleed. What followed was a torrential downpour of every single sperm cell I ever had, or ever will produce that shot out so unbelievably hard that my dick was ripped apart by my ultranut, accelerating to 10% of the speed of light by the time it left my urethra.
+
+
+It vaporized my phone as it punched right through, it barely slowed before cutting through a few structural pillars in the 18-story  apartment building I was in as if it were a nuclear powered angle grinder. The sheer weight of this historical nut, combined with the total destruction of everything in its path caused the 18 story apartment  building I was in from the 5th story upwards to collapse, and every single Mandy player across the earth could feel this historical moment. As the building collapsed on me, I rested easily, knowing that Mandy was proud of me."
+---
+body+title: "darryl"
+Comment: "I want Darryl to come over and roll sum balls all over my face"
+---
+body+title: "lumberloon"
+Comment: "How to counter Lumberloon:
+
+
+**Step 1:** Don't let the Lumberloon connect
+
+
+**Step 2:** Congratulations! You just countered Lumberloon, wasn't that easy?"
+---
+body+title: "hank"
+Comment: "**IM DELETING YOU, HANK!**
+
+
+██]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]] 10% Complete…
+
+
+█████]]]]]]]]]]]]]]]]]]]]]]] 35% Complete… 
+
+
+█████████]]]]]]]]]]]] 60% Complete…
+
+
+█████████████] 99% Complete…
+
+
+**ERROR!**
+
+
+Hank is irreplaceable.
+I could never delete you Hank!  
+If Hank poops, I flush.
+If Hank sneezes, l bless him.
+If Hank farts, I inhale.
+When Hank points I look.
+When Hank talks I listen.
+When Hank commands, I obey. If there are 1 million fans of Hank, I am one of them.
+if there are 1 thousand fans, I am apart of them.
+if Hank only had one fan, that is me.
+If Hank has no fans then there is no **ME**."
+---
+body+title: "ash"
+Comment: "Please Ash brawl stars, treat me like i'm a piece of trash"
+---
+body+title: ["collette", "collete", "colete", "coeltte", "coalete", "coalette", "coelte", "coletet", "colettet", "colletet"]
+comment: "You fucking dumbass her name is spelled C-O-L-E-T-T-E learn to spell you fucking moron. That's no double L, no singular T just if you needed a schooling since you're so illiterate."
+---
+body+title: "colgate"
+comment: "Ah yes my favorite brawler, **toothpaste.**"
+---
+body+title: "carl"
+Comment: "Sometimes I fantasize about Carl coming home drunk and beating me with his pickaxe until I feel numb. He kicks me in the ribs until I can hardly breathe. Then he starts to cry and apologizes, begging me to forgive him. He holds me all night as I gently cry into his work uniform. Please help is there any hope for me?"
+---
+body+title: "brawl stars"
+Comment: "Can you sympathize with the fact that none of this sub is what it used to be? You get more bad than good by keeping this bot up. People spending their time on this app just to comment “archer queen” for a smidge of a reply from you is just ludicrous. Slaves shackled to their entitlement, a million paths but choosing the wrong one everyone else is. What, because it’s funny? Because it’s getting them attention? Neither, but that nobody is willing think for themselves. But it’s never going to stop. You know it only gets worse from here. Let it go back to what it used to be, and sacrifice 10 lines of code for the greater good. We cannot let these things persist forever, or this subreddit will shed its last remaining soldiers to be transfused into the mind of the collective instead of the individual."
+---
+body+title: "valkyrie"
+Comment: "How do I begin?! Evolution Valkyrie, my love. Her looks doesn't just make my dick hard as stone, she makes my dick hard as fucking titanium. I literally haven't slept in 2 days just because I cant stop jerking it off to her, I think I busted 69 times to her just to show my love. Every time I deploy her in the arena and I her beautiful battle cry, it's makes me cum everywhere, my body feeling the need to circle jerk (CRCJ reference). That would be one desire I have: to be the one she dominates, the reason for her unstoppable love. I wish that someday she uses her axe to create a tornado and give me head. I wish that I could take her to my arena (the bed of course). I wish that I can pound her thicc ass.
+
+
+I should even make a 10 hour animated video where she pounds someone until he dies. I want her to come out of Clash Royale and drink all of the sperm in my 2 liter jar, filled with all of my cum tributes. I want her to sit on me until she crushes my skull. I am all but a chair to her glorious backside. I would get pounded by 10 Hog Riders just to get a taste of her milk. I have even sent billions of dollars to Supercell just so she can be real. 
+
+
+Every time I play Clash Royale the stupid fucking Hog Rider keeps getting pulled towards her, but the stupid dummy keeps running away from her and trying to attack the towers. If I were him, I would accept my fate and let her crush me with her axe. I am the sparky to her rocket" 
+---
+body+title: "dagger duchess"
+Comment: "A way to bring dagger duchess usage back up:
+
+
+Dagger duchess usage is way down since the nerf and i’ve been thinking of ways to have players use her more since supercell spent so much time creating her. I was thinking since she throws daggers so fast and has to reload so fast too maybe the more times she throws her daggers and reloads she starts getting really hot and sweaty. She starts getting so hot and sweaty she gets covered in sweat, and as the game goes on she can do stuff like take her shoes off and start taking off her clothes so she can cool off. Since Clash Royale is set in medieval times nobody has deodorant so as she gets sweatier she also gets really stinky especially under her armpits and if you play goblins near your dagger duchess tower maybe they cant help themselves and climb up the tower and smell her super stinky sweaty arm pits I think this would be a good way for supercell to sell more dagger duchess bundles and help up her usage rate."
+---
+
+body+title: "Colette"
+Comment: "Oh my god (And by god I mean my goddess Colette) do I crave the pixelated perfection of the genius that gifted us the most precious gifts of all, Colette. There is no point in talking how important Colette is to me, and how I would do anything to be with her, but I feel like if Im not gonna say what I would to do get her (literally anything) I'm disrespecting her this way. So hear me out.
+
+
+I would conquer all of world, kill billions of humans, learn 20 languages, work 17 hours of 24 there are in a day, become the richest person in the world,personally killing all the rich ones right now, including feeding Elon Musk to the dogs, ripping Bill Jobs apart, sending Mark Zuckerberg to his true evolutionary form,that is of a Lizard, castrating and beating Jeff Bezos to death, and personally setting on fire Bernard Arnault. I would literally overthrow governments worldwide, uniting the world under communism, just to create her into life. I would personally orchestrate 50 global revolutions with nothing in my mind but an ultimate goal, no, not just goal, the true purpose of my life, just to get a minute with white haired beauty that the mortals have named Colette. I would sacrifice anything to get her. Family? Pfft. I would sell my mother if it meant getting 20% closer to my ultimate goal.
+
+
+Im like sisyphus, except unlike him, once I reach my goal, and I definitely will, I will achieve my last true form and a total peace of mind. Knowing that there is nothing standing in our way, and assuring that our long relationship will last millions of years, humanity has since my takeover reached the 3 level of civilization, i.e type III,(capable of using the energy at the scale of its entire host galaxy) and mortality has been long cured, and humans now live millions of years. Just watch me. **AND ANYBODY WHO WILL DARE TO STAND IN MY WAY,BE WARNED,I WILL NOT HAVE MERCY ON YOUR SOULS. IM SERIOUSLY THINKING ABOUT JUST KILLING THAT FUCK EDGAR, THAT THEY ALWAYS SHIP COLETTE WITH,SHE DOESN'T EVEN LIKE HIM!** I want to taste her titties. I want to wake up everyday with her next to me. I want to have 11 beautiful children with Colette. 4 blonde girls,4 brown haired, one black haired, and a beautiful boy."
+---
+body+title: "buzzette"
+Comment: "**GOD HAVE MERCY ON ME!!!!** I thought I was a minority when it came to how much I love Buzzette. She is the woman of my dreams. **SHE IS THE PERFECT FORM OF WOMEN TO EVER EXIST ON THIS GOD FORSAKEN WORLD!!!** Ohhhhhhh just **THINKING** of her makes me **CUM SO MUCH.** I wish everyone would understand **HOW INDESCRIBABLY HOT BUZZETTE IS,** but at the same time I don't, that way **NO ONE ELSE** would love her except for *me.* 
+
+
+I'd even go as far to say that I would pay millions of dollars to supercell to make Buzzette realistic so I could spend time with her and give her **EVERYTHING** she wants, but unfortunately I am not rich which means I'd need to **KILL EVERYONE RICHER THAN ME SO I WOULD BE THE RICHEST, AND ANYONE WHO DARES EVEN I MAY SAY LOOK IN HER DIRECTION IS BEING HUNG UP ON MY WALL LIKE ANIMAL HORNS!!!!! GOD GOD GOD, PLEASE MAKE BUZZETTE REAL, PLEASE!!!!** Please, make her real… God, I beg you… please…
+
+
+please…"
+---
 
 
 
-
-# Content Regulation ~~~~~~~~~~~~~~~~~
-
+# Content Regulation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -494,7 +563,7 @@ action: remove
 ---
 type: comment
 body: "kill yourself"
-comment: "Must Watch 4 all balloon players! https://m.youtube.com/watch?v=b1GOKziDgOM"
+comment: "Must Watch 4 all balloon players [here!](https://m.youtube.com/watch?v=b1GOKziDgOM)"
 action: report
 ---
 type: comment
@@ -525,7 +594,7 @@ type: comment
 body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder"
 action: remove
 action_reason: "Spamming automod get a life kek"
-modmail: this mfer should probably be banned, look into it 
+modmail: this mfer should probably be banned, look into it 
 modmail_subject: Spamming Automod
 ---
 # Automoderator spam removal
@@ -541,7 +610,7 @@ type: comment
 body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder"
 action: remove
 action_reason: "Spamming automod get a life kek"
-modmail: this mfer should probably be banned, look into it 
+modmail: this mfer should probably be banned, look into it 
 modmail_subject: Spamming Automod
 ---
 # Karma and account age requirement
@@ -561,9 +630,7 @@ action: remove
 
 
 
-
-# Useful Scripts ~~~~~~~~~~~~~~~~~~~~~
-
+# Useful Scripts ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
