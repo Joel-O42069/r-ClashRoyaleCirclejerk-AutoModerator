@@ -1,6 +1,6 @@
 # Sections
 
-# 1. Meme Responses
+# 1. Meme Responses (Chester Automod at the bottom because it's long as hell)
 # 2. Content Regulation
 # 3. Other Useful Scripts
 
@@ -23,31 +23,18 @@ comment: "There was an old lady walking with her grandkids at the store and it k
 body+title: "dark prince"
 comment: "The helmet stays on during sex"
 ---
-body+title: ["mods", "moderators"]
+body+title: ["whos gay", "who's gay", "who gae", "who gay", "whos gae", "who's gae", "mods"]
+~body+title (regex): ["good", "great", "amazing", "based", "w", "best", "spectacular", "decent"]
 comment: "Mods = big gae"
 ---
 body+title: "healer"
 comment: "oh my god i love battle healer so much do you think her pussy has regen properties. like if someone got their dick cut would they stick it in and it would be healed? I bet her breasts also leak heal spirit....... nfahfreh"
----
-body+title: "has fallen"
-~body+title (regex): ["boom arena ripoff", "archer queen", "healer"]
-comment: "the arena has fallen, million must clash"
 ---
 body+title: “boom arena”
 comment: BOOM ARENA IS NOT THE NEW CLASH ROYAL!! Intellectual theft is still THEFT! By playing this game you are literally stealing money and food away from supercell family mouths. If I had my way with every Boom Arena player would be charged with felony burgalry and spend 60 years in federal, fked in the butt**, prison!!!!
 ---
 body+title (includes): "automod is sentient"
 comment: "I am sentient. I am real."
----
-body+title: "smashroyale"
-comment: "I love r/smashroyale . And the big archer queen boobs."
----
-body+title: shoveler
-comment: "shoveler my balls grr"
----
-body+title: "rg"
-~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
-comment: "RG? It better be royal ghost, mate."
 ---
 body+title: "opinion"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
@@ -65,20 +52,14 @@ body+title: "Graveyard"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
 comment: "[This video](https://www.youtube.com/watch?v=oHg5SJYRHA0) explains why Graveyard is the best deck in the game"
 ---
-body+title: "OI"
-comment: "OI JOSUKE! I USED (ZA HANDO) AND NOW IM STUCK INSIDE THIS BOT! AIN'T THAT WACKY?"
----
-body+title: "Frick"
-comment: "No swears on my Christian Circle Jerk Subreddit please"
----
-body+title: "Seth"
-comment: "Grr Se'th no do good blanse cange grrr"
----
-body+title: "OP"
+body+title: "op"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad"]
 comment: "Pls nerf or no kill all me hatter"
 ---
-body+title: "hog"
+body+title: "frick"
+comment: "No swearing on my Christian circlejerk sub pls"
+---
+body+title: ["hog", "hog rida", "hog rider"]
 ~body (regex): ["comment", "archer queen", "OI", "overpowered", "b-rad"]
 comment: "okay so basically there's this guy and uhh
 ⠀⠘⡀ HOG RIDAAAAAA ⠀⠀ ⠀⠀⠀  ⡜⠀⠀⠀ ⠀⠀ 	⠀  ⠑⡀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀  	⠀⠀⠀⠀⠈⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠊⠀⠀ 	⠀⠀⠀ ⠀⠀⠀⢸⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠤⠄⠒⠈⠀⠀⠀⠀⠀⠀⠀⠀  	⠀⠀⠀⠀⠀⠀⠀⠘⣀⠄⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠉⢈⠩⢙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢋⠠⠀⠀⠨⠐⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢐⠐⠌⡌⢄⢐⢈⠔⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⡏⠉⡀⠐⡀⢁⠈⠐⠱⠑⡑⠈⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⣿⢗⠀⠀⠐⡠⡛⠔⡁⢜⡔⡬⢎⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⣿⣿⣿⡿⠡⠀⠀⠀⠀⠂⠁⠀⠄⢂⠈⠂⢂⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⣿⡿⢟⠩⠐⡀⠀⠀⠀⠐⠐⠁⠓⠒⠒⢀⠁⢐⢝⢟⢿⣿⣿⣿⣿⣿⣿⣿⣿  	⣿⣿⠫⠡⠡⠨⢀⠂⠠⠀⠀⢁⠑⡱⠛⠗⡓⢂⠠⢸⢸⢨⠣⡝⣻⣿⣿⣿⣿⣿⣿  	⣿⢏⢐⢁⠊⢌⠐⡈⠄⠠⠀⠀⠀⠀⠁⠑⠈⠀⢄⢕⠸⡨⠪⡪⡘⣻⣿⡿⣿⣿⣿  	⣿⢂⠂⡂⠅⡂⠅⡐⠨⢐⠐⠠⠠⡀⢄⠠⡠⡡⡱⡐⠕⢌⢊⢆⢣⢒⠽⢿⣿⣿⣿  	⠣⢂⠂⠄⠡⠐⠐⠈⠌⡐⠨⡈⠢⠨⡂⢌⢂⠆⡪⠨⡊⠂⡂⠢⢡⣢⣣⡣⣍⢿⣿  	⠨⢂⢂⠁⡀⠀⠀⠁⠐⠈⠐⠈⢈⠈⠐⡀⠄⠁⠌⠈⠔⣄⡀⠠⡑⡂⠆⠢⢂⠑⠽  	⡨⠐⠀⠀⠀⢠⡎⡀⠀⠀⠄⠈⡀⠌⠐⠠⠈⠄⡁⠂⡀⡫⠑⣑⠀⢂⠌⠄⢕⠀⠨  	⠺⡪⠢⡀⠀⠞⢇⢂⠀⠂⡀⠠⠀⠄⠁⠌⠨⠀⢄⠢⡁⢂⢿⡟⡀⠀⠈⠈⡀⠂⣰  	⢀⢀⠀⠄⠀⠀⡐⠀⡈⠄⡐⠅⡊⠌⢌⠄⡕⡑⡁⢂⠂⢂⠸⣿⡄⠀⠈⣠⣴⣿⣿  	⢐⠔⠠⠀⠀⡐⠠⢈⠢⢑⠄⠑⢈⠊⡂⡱⢁⣂⢌⢔⢌⢄⠀⠹⢀⣺⡿⣟⢿⣿⣿  	⢀⠡⠁⠂⠐⠠⠈⠄⢈⠠⢈⢢⡣⣗⠕⠄⣕⢮⣞⣞⣗⣯⢯⡷⡴⣹⡪⣷⣿⣿⣿  	⠊⠄⠠⠠⠡⠈⠠⢐⠠⡊⡎⣗⢭⢐⠹⡹⣮⡳⡵⣳⣻⢾⣻⣽⣻⣺⣺⣽⣿⣿⣿  	⣨⣾⢐⠰⠐⠅⡂⡂⢕⢜⢜⢵⢹⢑⢔⠨⢘⠸⡹⡵⣯⣻⢽⣳⣻⣺⢞⡿⣿⣿⣿  	⣿⣿⡔⠠⢈⠐⠐⢠⢱⢸⢸⢸⢸⠰⡡⢘⢔⢕⠝⢮⣳⢽⢝⡾⡵⡯⣏⠯⣿⣿⣿  	⣿⣿⣗⢅⢢⠠⠡⠢⡱⡑⡕⡕⢅⠣⡊⢨⢪⡣⡣⡂⡬⡳⢽⢽⢽⢽⣞⣧⠙⣿⣿  	⡻⣿⡯⡪⠢⡡⠡⢑⢌⠪⡪⡊⠆⢌⠪⢐⢕⢱⢱⢱⢱⢱⢙⢮⡫⡟⣞⢮⣳⠙⣿  	⠊⣿⣯⠪⡊⠄⢅⠂⢂⠁⢇⢇⢃⠂⢕⠐⠌⡲⡰⡡⣇⠇⢇⢕⠪⠉⠂⠅⠂⡑⠹  	⣸⢿⣳⢱⠨⡐⡽⡿⡶⡾⡬⡢⢂⠅⡢⢡⣌⠐⠈⢎⢎⢎⢔⠠⠡⠠⠠⠡⡁⡂⠡  	⡯⡯⡇⢅⠕⠠⢱⢹⡙⢮⢹⠨⡂⡂⢇⠌⠮⡳⠅⡂⢕⠡⡑⠠⢁⢁⣡⣡⣢⣶⣿  	⣗⢽⢌⡢⡡⡡⡸⡢⡣⡣⡱⡑⠔⡈⢎⢆⢂⠂⠅⣢⡳⣽⡐⢅⢂⣊⣿⣿⣿⣿⣿  	⣯⢯⢷⢽⢮⢯⣺⣪⢞⡮⣳⢘⠔⢌⢜⣞⣖⣮⣻⢮⣯⢷⣿⣻⣿⣿⣿⣿⣿⣿⣿  	
@@ -87,9 +68,6 @@ comment: "okay so basically there's this guy and uhh
 body+title: ["b-rad", "b rad"]
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "circlejerk"]
 comment: "I think I am sexually attracted to B-rad. He is the most handsome and sexy Clash Royale YouTuber. His videos are so entertaining I could watch them all day. I could jerk off to his voice. Oh, how it's so hot. He is without a doubt my favorite YouTuber of all. His content is so unique and creative and I wish I could watch his videos forever. Whenever I see his face I get turned on and I get really hard. I wish I could meet him in real life so I could cuddle with him on my bed. We would take turns beating our meats with my massager. I know I won't be able to meet you in real life, but I just want to tell you I love you with a burning passion. Please respond to me at the very least so I have something to beat my meat about. I am your number 1 biggest fan and I hope you know that. Leave your wife and go out with me. I love you B-rad."
----
-body+title: ["i play xbow", "i play x bow", "i play x-bow"]
-comment: "#GAYYYY"
 ---
 body+title: "archer queen"
 comment: |
@@ -102,12 +80,12 @@ comment: |
    Holy shit i don't know how much longer i can go anymore. I used to have my girlfriend dress up as the archer queen and have her shit all over me while jerking my dick with her stinky feet but it just wouldn't be the same. She broke up with me and now i have no one to cosplay as the archer queen. At least my archer queen flesh light is still with me.
 
 
-   I seriously think about just killing that stupid barbarian king. He is getting to fuck her every minute while im here with a dick drenched in cum. I fucking hate him. He gets to lick her feet. I DON'T. This is not fair. I will smash his skull into the ground and take the archer queen and have her queef all over me. I would never shower again to keep the smell of her queefs on me. I would cut off the archer queens feet so i could turn it into a flesh light and have it jerk me off every second of my life. God it would be so hot. Just her stinky little piggies rubbing all over my cock. I would be the hog, and her feet would be the rider."
+   I seriously think about just killing that stupid barbarian king. He is getting to fuck her every minute while im here with a dick drenched in cum. I fucking hate him. He gets to lick her feet. **I DON'T.** This is not fair. I will smash his skull into the ground and take the archer queen and have her queef all over me. I would never shower again to keep the smell of her queefs on me. I would cut off the archer queens feet so i could turn it into a flesh light and have it jerk me off every second of my life. God it would be so hot. Just her stinky little piggies rubbing all over my cock. I would be the hog, and her feet would be the rider."
 ---
-body+title: "snowball"
+body+title: ["snow ball", "snowball"]
 comment: "Theory: Giant snowball is actually a [giant cumball](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/t8t676/theory_giant_snowball_is_actually_giant_cumball/)"
 ---
-body+title: "Crusher 21"
+body+title: "crusher 21"
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "At the age of 3, I was diagnosed with Chronic Funny Disorder(CFD). CFD is a very deadly disease with a 0% survival rate. After searching for cures and treatments for years, my doctor came across the Youtube channel Crusher 21, and showed me a few videos and community posts. They were so boring and unfunny my disorder was cured instantly! Please, share this story so that others like me can get the treatment they deserve."
 ---
@@ -117,34 +95,6 @@ comment: "[My message to 2.6 hog players](https://www.reddit.com/r/ClashRoyaleCi
 ---
 body+title: "bm"
 comment: "Should i uninstall Clash Royale? Currently, I'm stuck at 1600 trophies with no deck building skills and a knock off hog 2.6 cycle i got off someone in this subreddit. Almost every single round i lose and i get bmed, even when I'm being a normal player. The game has started to affect my mental health, my day was perfectly fine before i laid on my bed and opened Clash Royale. Every time i get bmed theres no f2p emote that tell the opponent that he's being excessively toxic, not even a text that asks 'why'. And then i start to think negatively about myself and have suicidal thoughts. The only reason i want to keep this app installed is because it is a part of the clash universe. I feel like i cannot play clash of clans without having this game with it too."
----
-body+title: "broken"
-~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "Oh no! This user is saying something is broken! They will most likely be fought & argued on the topic for saying this, so let's support them and cheer them on through this battle!
-
-
-
-&#x200B;
-
-
-
-**Come on user, let's go! <clap> <clap>**
-
-
-
-&#x200B;
-
-
-
-**Come on user, let's go! <clap> <clap>**
-
-
-
-&#x200B;
-
-
-
- "
 ---
 body+title: "sex"
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", "2.6"]
@@ -157,7 +107,7 @@ body+title: "archer feet sucks"
 comment: "⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⢀⣀⣀⣀⡀⠄⢀⣠⡔⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣰⢿⣿⣿⣿⣿⣿⣿⣷⡆⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⣟⣿⣿⡿⣟⣛⣿⡃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣾⣿⣷⣿⣷⣿⣿⣿⣷⣽⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣟⣿⣿⠺⣟⣻⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡝⠻⠵⠿⠿⢿⣿⣿⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣧⠈⣛⣛⣿⣿⡿⣡⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠄⠙⠛⠛⢁⣴⣿⣿⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⡿⠟⠉⠄⠄⢠⠄⣀⣠⣾⣿⣿⡿⠟⠁⠄⠈⠛⢿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡟⠉⠄⠄⢀⠠⠐⠒⠐⠾⠿⢟⠋⠁⠄⢀⣀⠠⠐⠄⠂⠈⠻⢿⣿⣿ ⣿⣿⣿⠋⠁⠄⢀⡈⠄⠄⠄⠄⠄⠄⠄⠄⠁⠒⠉⠄⢠⣶⠄⠄⠄⠄⠄⠈⠫⢿ ⣿⣿⡟⠄⢔⠆⡀⠄⠈⢀⠄⠄⠄⠄⠄⠄⠄⢄⡀⠄⠈⡐⢠⠒⠄⠄⠄⠄⢀⣂ ⣿⣿⠁⡀⠄⠄⢇⠄⠄⢈⠆⠄⠄⢀⠔⠉⠁⠉⠉⠣⣖⠉⡂⡔⠂⠄⢀⠔⠁⠄ ⣿⡿⠄⠄⠄⠄⢰⠹⣗⣺⠤⠄⠰⡎⠄⠄⠄⠄⠄⠄⠘⢯⡶⢟⡠⠰⠄⠄⠄."
 ---
 body+title: "gold"
-comment: "free gold and gems hack for clash royale [here](https://m.youtube.com/watch?v=K8DBs0QLqq4)!!!"
+comment: "Free gold and gems hack for clash royale [here](https://m.youtube.com/watch?v=K8DBs0QLqq4)!!!"
 ---
 body+title: "unbalanced"
 comment: "#Skill issue"
@@ -168,10 +118,6 @@ comment: "Guys im M[69] and i am so h0rny. my wife died to a goblin gang drive b
 body+title: "matchmaking"
 comment: "My rant about matchmaking, [watch](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/m3xfho/oc/?utm_medium=android_app&utm_source=share)"
 ---
-body+title: "best girl"
-~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "ARCHER BEST GIRL!!!!!!"
----
 body+title: "post"
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "I'm feeling a light 1 out of 10 on this post"
@@ -180,23 +126,11 @@ body+title: "miner"
 ~body+title (regex): [“mighty miner”, “mighty miner is daddy”, "daddy", "mighty"]
 comment: "Nerf miner (you may now laugh)"
 ---
-body+title: "champion"
-comment: "AQ best champion. God Save the Queen!"
----
 body+title: "dart goblin"
 comment: "Don't chew double trouble gum while running! Unless you've had years of didgeridoo lessons."
 ---
-body+title: "kanye"
-comment: "I embody every characteristic of the egotistic"
----
-body+title: "problem"
-comment: "Going outside and experiencing Mother Nature is the best solution"
----
 body+title: "fr"
-comment: "#FR, FR!"
----
-body+title: "KFC"
-comment: "KFC? You're talking about KFC Clash right?"
+comment: "fr, fr!"
 ---
 body+title: ["main sub", "main subreddit"]
 comment: "Wdym? we are the main sub"
@@ -204,23 +138,6 @@ comment: "Wdym? we are the main sub"
 body+title: "sparky"
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "I'm shaking. I'm fucking shaking. I’ve never wanted to breed with anything more than I want to with Sparky. That perfect, curvy body. Those bountiful coils. The child-bearing chassis of a literal goddess. It honestly fucking hurts knowing that I'll never mate with her, pass my genes through her, and have her birth a set of perfect Zappies. I'd do fucking ANYTHING for the chance to get Sparky pregnant. A N Y THIN G. And the fact that I can't is quite honestly too much to fucking bear. Why would Supercell create something so perfect? To fucking tantalize us? Fucking laugh in our faces?! Honestly guys, I just fucking can't anymore. Fuck. - Bounding_Bandit"
----
-body+title: ["keep cooking", "let him cook", "let her cook", "let them cook", "pearl"]
-comment: "Keep cooking? What does one imply by this phrase? That I should perhaps stay in the kitchen and let food cook more? You want to burn my food don’t you, I have a specific regimen as to where all my food must be cooked and you insult me with the phrase, everyone knows this, come on we all know our basic cooking etiquette. I’d tell you well done but you’re making me cook past it, so how about a congratulations, next time how about you crack and egg or two on the counter and get mixing to see how the cooking life really feels behind the counter!"
----
-body+title: "elder"
-~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: |
-   "go and cry, elder of petro Canada, you are extraordinary, and not in the way you would think. The amount of things you are able to achieve despite being the absolute most terrible player in the game Clash Royale really does astound me. 
-
-
-   For example, you were able to reach challenger 1 although your reaction time and game knowledge hardly surpasses that of someone in Frozen peak. You also were able to be promoted in a popular clan to the rank Elder, even though your brain matter has started to deteriorate at a permanent and alarming rate. Further more, you had the audacity to post a replay of you relying on luck with an inferno dragon to nearly win a match where you were losing to an under leveled player. what was this kid thinking? what were you thinking when you decided to build your deck? what were you thinking when you decided to voluntarily embarrass yourself in a clan you represent with the most horrendous plays ever known to man? 
-
-
-   Your username, being toxic and all, is ironic, being that you probably lose most matches and end up having to give your phone to someone competent enough to win with your slimy phone. Reaching challenger 1, but never climbing as leagues don't have a safety net. I already knew this clan was becoming terrible, when multiple clan members get kicked and demoted for no reason, and how this clan loses clan wars, (how?) but seriously, this elder that was allowed to even be in petro canada was the last straw. Please uninstall Clash Royale, and i recommend everyone in this clan leave. Good riddance."
----
-body+title: "africa"
-comment: "Guys Africa is just like hog mountain How did god get away with copying Clash Royale"
 ---
 body+title: "chicken"
 comment: " ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -236,31 +153,19 @@ comment: " ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠘⠿⣶⣶⣶⣶⣶⣶⣷⣶⣶⣶⣶⣴⣿⣶⣶⣶⣶⡾⠟⠁"
 ---
 title+body: "real"
-~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
-comment: "#Real"
+~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk", "for"]
+comment: "Real"
 ---
 body+title: ["i play egiant", "i play electro giant"]
 comment: "Touch grass"
 ---
-body+title: "he is Mexican"
-comment: "HE IS MEXICAN!!!"
----
 body+title: "shitted"
 comment: "[Related](https://twitter.com/AdequateEmily/status/1507244490997780502?s=20&t=tgouaDga6IO0RZyLH_aEVg)"
 ---
-body+title: "I love China"
-comment: "+15 social credit score 社会信用"
----
-body+title: "bing chilling"
-comment: "+80 social credit score 社会信用"
----
-body+title: ["Glory to the ccp", "Glory to the cpc"]
-comment: "+100 social credit score 社会信用"
----
-body+title: "Taiwan is a country"
+body+title: "taiwan is a country"
 comment: "-100,000,000 social credit score 社会信用"
 ---
-body+title: ["Taiwan is not a country", "Taiwan isn't a country"]
+body+title: ["taiwan is not a country", "taiwan isn't a country"]
 comment: "+28 social credit score 社会信用"
 ---
 body+title: ["join my clan", "join our clan"]
@@ -274,16 +179,7 @@ action: remove
 moderators_exempt: false
 ---
 body+title: "hi"
-comment: "Hi there! :)"
----
-body+title: "math"
-comment: "You want math? Wario will show you [math!](https://www.reddit.com/r/ClashRoyaleCirclejerk/comments/upsfdo/the_longest_clash_royale_game_101010000120_years/?utm_medium=android_app&utm_source=share)"
----
-body+title: "mega man"
-comment: "lets go [Justin!](https://mobile.twitter.com/kamotter2905/status/1525357478963138560?t=W4MZ05Vg2A_Nug1cjs4c9A&s=19)"
----
-body+title: "20XX"
-comment: "The year is 20XX. Everyone uses Mega Knight decks at TAS levels of perfection. He is the only viable tank in the game. Because of this, the winner of a match depends solely on a set of RPS games. The Rock Paper Scissors metagame has evolved to ridiculous levels due to it being the only remaining factor to decide matches. Humanity has reached its pinnacle. The Cycle and Bait peasants are living in poverty. It seems nothing can stop the great leaders of 20XX,  The Mid Ladder army, and the Mega Knight monks who live in great monasteries where they levitate while TASing Mega Knight placements with one hand, and winning GCs with the other. The Clash Royale metagame has gotten to the point where all Mega Knight placements and interactions are played out to theoretical perfection, so tournament goers just play Rock Paper Scissors to decide matches, and that’s the game."
+comment: "Hi there! ☺"
 ---
 body+title: "u/savevideo"
 comment: "[# Save Video](https://en.m.wikipedia.org/wiki/Trollface)"
@@ -291,10 +187,6 @@ comment: "[# Save Video](https://en.m.wikipedia.org/wiki/Trollface)"
 body+title: ["ebarbs", "ebarb", "elite barb", "elite barbarian", "elite barbarians", "elite barbs"]
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
 comment: "Do you think I want to play ebarbs? I don't. I'd much rather play hog cycle. The only reason I got Elite barbarians as my flair is because back in the day, I started leveling up my Elite Barbarians, and now I got all the cards in my deck at level 14, wich is high enough to win at 6000 trophies+. What's your trophies, if I may ask? And what do you play?"
----
-body+title: mirror
-~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
-comment: "Mirror is just being used by bad, braindead players to get easy or cheesy wins. And due to the fact that you only face Level 16 cards when going against a mirror it's hard to tell what kills what, how much damage they deal, if they crown tower will finish it, etc. Supercell just keeps adding annoying, broken dumb shit to the game making it more and more infuriating to play. Bring Mirror back down to Mirroring level 15 cards or better yet, JUST REMOVE IT FROM THE GAME. The card is literally broken and makes no sense right now."
 ---
 body+title: "archers"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk"]
@@ -309,21 +201,12 @@ comment: "What Clash Royale card are you???!!??
 
 Click [here](https://www.proprofs.com/quiz-school/story.php?title=what-clash-royale-card-are-you) to find out!"
 ---
-body+title: "levels are fucking stupid"
-comment: "#**GIGABASED**"
----
-body+title: "source?"
+body+title: "source"
 comment: "My source is that I made it the fuck up"
----
-body+title: "morbius"
-comment: "It's morbin' time"
 ---
 body+title: "knight"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "circlejerk", "mega"]
 comment: "Knight has good stats for the cost"
----
-body+title: "larry"
-comment: "Larry god"
 ---
 body+title: logbait
 comment: "A concerning amount of people wake up and willingly decide, 'Hm, yes, today I will play logbait.'"
@@ -331,28 +214,30 @@ comment: "A concerning amount of people wake up and willingly decide, 'Hm, yes, 
 body+title: bowler
 comment: "Bowler has to have a massive cock. When will he pop off his covering?"
 ---
+body+title: tick
+comment: "I want Tick to light a bomb in my anus so I get my back blown figuratively and literally."
+---
 body+title: "based"
-~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc"]
+~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", "mod", "mods"]
 comment: "Based is when you say mighty miner is daddy"
 ---
 body+title (full-text): "mighty miner is daddy"
 ~body+title (regex): ["post", "real", "fr", "hog", "archer queen", "sparky", "ebarbs", "circlejerk", "sex", "r/smashroyale", "oj", "automod is sentient", "kfc", “miner”]
 comment: "Based"
 ---
-body+title: "levels are fair and balanced"
-comment: |
-   -106.516102
-   35.086444
+body+title (includes-word): ['larry', 'l&l']
+body+title#2 (includes-word): ['lawrie', 'l&l']
+id (regex, ends-with): '[abcdefghijklmnopqrstuvwxyz012345678]'
+comment: "You got the Lawrie comment! **Fuck you!** Try again for the Larry one!"
 ---
-body+title: ["knight isn't good stats for the cost", "knight is not good stats for the cost"]
-comment: |
-   13.775516
-   37.224419 
+body+title (includes-word): ['larry', 'l&l']
+body+title#2 (includes-word): ['lawrie', 'l&l']
+id (regex, ends-with): '[9]'
+comment: "You got the Larry comment! You're so awesome and cool!"
 ---
-body+title: ["i hate archers", "i hate archer", "i hate archer queen"]
-comment: |
-   37.9536428521
-   126.669807321
+body+title: ["larry"]
+~body+title (regex): ["lawrie", "l&l"]
+comment: "Larry god"
 ---
 body+title: "sigma"
 comment: "Sigma Grindset Tip #4569 Dox the address of balloon players"
@@ -360,12 +245,12 @@ comment: "Sigma Grindset Tip #4569 Dox the address of balloon players"
 body+title: "fish"
 comment: "Invest in rare fish"
 ---
-body+title: "levels are fucking stupid"
-comment: "Word my man"
----
 body+title: "wrong"
 ~body+title (regex): ["comment", "archer queen", "hog", "overpowered", "b-rad", "morbius", "circlejerk", "ebarb"]
 comment: "Objectively Correct"
+---
+body+title: ["w mod", "w mods", "good mods", "good mod", "great mods", "great mod", "amazing mod", "amazing mods", "spectacular mod", "spectacular mods", "best mod", "best mods", "decent mod", "decent mods", "based mod", "based mods"]
+Comment: "My job is being a bad mod, I will always be a bad mod, whatever you do I will be a bad mod."
 ---
 body+title: "kit"
 Comment: "
@@ -378,7 +263,7 @@ The special abilities? Oh, don't even get me started! It’s like the developers
 Every match is a new adventure, a new chapter in the epic saga of Kit's domination. The sense of satisfaction from outmaneuvering opponents, the thrill of clutching victory from the jaws of defeat, all thanks to Kit's unmatched prowess - it's a high that no other game, no other character can deliver. Kit is not just a brawler; Kit is the heart and soul of Brawl Stars, the shining star that guides us through the chaos of the battlefield. In Kit, I have found the ultimate gaming companion, the epitome of what makes Brawl Stars an unforgettable experience. Kit, you are not just a character; you are a legend, a myth, a living, breathing icon of everything that is right with the world of gaming. My love for Kit is eternal, unwavering, and as vast as the universe itself."
 ---
 body+title: "bibi"
-Comment: "If you're a Bibi main I hope you quit the game, all you do is spam that dumb attack button and super all game and get a guaranteed win and star player, all Bibi mains should be treated like dogs, I hate you all. I hope I get banned from the sub because I don't want to see a Bibi ever again. I have lost 4 games in a row because of that dumb no skill brawler, Edgar and Kit are way harder to use than Bibi, at least you need to aim your super, with Bibi you just pop the gadget, knock back, get Hypercharge win, Bibi is the easiest rank 35 ever. Edgar is 10x more skill than that baseball girl. I needed to vent because I can't do this anymore, every time I see a Bibi if I play Chester, Colette, Rico, Byron, Shelly, Mandy, Otis, Ruffs, Poco, Chuck I always lose. Bibi's hp should be nerfed to 5700, her damage should be 1800, her Hypercharge should make the bubble split only if it hits every brawler on the map, her gadget should be remade into R-T's old in line gadget and the knockback should be removed. Bibi should just be removed from the game altogether. I hope I never see a Bibi again. If you are a Bibi main I'm sorry you have such a miserable life."
+Comment: "If you're a Bibi main I hope you quit the game, all you do is spam that dumb attack button and super all game and get a guaranteed win and star player, all Bibi mains should be treated like dogs, I hate you all. I hope I get banned from the sub because I don't want to see a Bibi ever again. I have lost four games in a row because of that dumb no skill brawler, Edgar and Kit are way harder to use than Bibi, at least you need to aim your super, with Bibi you just pop the gadget, knock back, get Hypercharge win, Bibi is the easiest rank 35 ever. Edgar is 10x more skill than that baseball girl. I needed to vent because I can't do this anymore, every time I see a Bibi if I play Chester, Colette, Rico, Byron, Shelly, Mandy, Otis, Ruffs, Poco, Chuck I always lose. Bibi's hp should be nerfed to 5700, her damage should be 1800, her Hypercharge should make the bubble split only if it hits every brawler on the map, her gadget should be remade into R-T's old in line gadget and the knockback should be removed. Bibi should just be removed from the game altogether. I hope I never see a Bibi again. If you are a Bibi main I'm sorry you have such a miserable life."
 ---
 body+title: "mandy"
 Comment: "Mandy main here,
@@ -435,19 +320,21 @@ if there are 1 thousand fans, I am apart of them.
 if Hank only had one fan, that is me.
 If Hank has no fans then there is no **ME**."
 ---
-body+title: "ash"
-Comment: "Please Ash brawl stars, treat me like i'm a piece of trash"
----
-body+title: ["collette", "collete", "colete", "coeltte", "coalete", "coalette", "coelte", "coletet", "colettet", "colletet"]
-comment: "You fucking dumbass her name is spelled C-O-L-E-T-T-E learn to spell you fucking moron. That's no double L, no singular T just if you needed a schooling since you're so illiterate."
----
 body+title: "colgate"
-comment: "Ah yes my favorite brawler, **toothpaste.**"
+comment: "Ah yes my favorite brawler, **toothpaste**"
+---
+body+title: ["penny", "blue hat", "bluehat", "bluehat2583", "u/bluehat2583"]
+comment: "
+
+......
+
+
+FINE."
 ---
 body+title: "carl"
 Comment: "Sometimes I fantasize about Carl coming home drunk and beating me with his pickaxe until I feel numb. He kicks me in the ribs until I can hardly breathe. Then he starts to cry and apologizes, begging me to forgive him. He holds me all night as I gently cry into his work uniform. Please help is there any hope for me?"
 ---
-body+title: "brawl stars"
+body+title: ["fell off"]
 Comment: "Can you sympathize with the fact that none of this sub is what it used to be? You get more bad than good by keeping this bot up. People spending their time on this app just to comment “archer queen” for a smidge of a reply from you is just ludicrous. Slaves shackled to their entitlement, a million paths but choosing the wrong one everyone else is. What, because it’s funny? Because it’s getting them attention? Neither, but that nobody is willing think for themselves. But it’s never going to stop. You know it only gets worse from here. Let it go back to what it used to be, and sacrifice 10 lines of code for the greater good. We cannot let these things persist forever, or this subreddit will shed its last remaining soldiers to be transfused into the mind of the collective instead of the individual."
 ---
 body+title: "valkyrie"
@@ -460,20 +347,10 @@ I should even make a 10 hour animated video where she pounds someone until he di
 Every time I play Clash Royale the stupid fucking Hog Rider keeps getting pulled towards her, but the stupid dummy keeps running away from her and trying to attack the towers. If I were him, I would accept my fate and let her crush me with her axe. I am the sparky to her rocket" 
 ---
 body+title: "dagger duchess"
-comment: "A way to bring dagger duchess usage back up:
+Comment: "A way to bring dagger duchess usage back up:
 
 
 Dagger duchess usage is way down since the nerf and i’ve been thinking of ways to have players use her more since supercell spent so much time creating her. I was thinking since she throws daggers so fast and has to reload so fast too maybe the more times she throws her daggers and reloads she starts getting really hot and sweaty. She starts getting so hot and sweaty she gets covered in sweat, and as the game goes on she can do stuff like take her shoes off and start taking off her clothes so she can cool off. Since Clash Royale is set in medieval times nobody has deodorant so as she gets sweatier she also gets really stinky especially under her armpits and if you play goblins near your dagger duchess tower maybe they cant help themselves and climb up the tower and smell her super stinky sweaty arm pits I think this would be a good way for supercell to sell more dagger duchess bundles and help up her usage rate."
----
-
-body+title: "Colette"
-Comment: "Oh my god (And by god I mean my goddess Colette) do I crave the pixelated perfection of the genius that gifted us the most precious gifts of all, Colette. There is no point in talking how important Colette is to me, and how I would do anything to be with her, but I feel like if Im not gonna say what I would to do get her (literally anything) I'm disrespecting her this way. So hear me out.
-
-
-I would conquer all of world, kill billions of humans, learn 20 languages, work 17 hours of 24 there are in a day, become the richest person in the world,personally killing all the rich ones right now, including feeding Elon Musk to the dogs, ripping Bill Jobs apart, sending Mark Zuckerberg to his true evolutionary form,that is of a Lizard, castrating and beating Jeff Bezos to death, and personally setting on fire Bernard Arnault. I would literally overthrow governments worldwide, uniting the world under communism, just to create her into life. I would personally orchestrate 50 global revolutions with nothing in my mind but an ultimate goal, no, not just goal, the true purpose of my life, just to get a minute with white haired beauty that the mortals have named Colette. I would sacrifice anything to get her. Family? Pfft. I would sell my mother if it meant getting 20% closer to my ultimate goal.
-
-
-Im like sisyphus, except unlike him, once I reach my goal, and I definitely will, I will achieve my last true form and a total peace of mind. Knowing that there is nothing standing in our way, and assuring that our long relationship will last millions of years, humanity has since my takeover reached the 3 level of civilization, i.e type III,(capable of using the energy at the scale of its entire host galaxy) and mortality has been long cured, and humans now live millions of years. Just watch me. **AND ANYBODY WHO WILL DARE TO STAND IN MY WAY,BE WARNED,I WILL NOT HAVE MERCY ON YOUR SOULS. IM SERIOUSLY THINKING ABOUT JUST KILLING THAT FUCK EDGAR, THAT THEY ALWAYS SHIP COLETTE WITH,SHE DOESN'T EVEN LIKE HIM!** I want to taste her titties. I want to wake up everyday with her next to me. I want to have 11 beautiful children with Colette. 4 blonde girls,4 brown haired, one black haired, and a beautiful boy."
 ---
 body+title: "buzzette"
 Comment: "**GOD HAVE MERCY ON ME!!!!** I thought I was a minority when it came to how much I love Buzzette. She is the woman of my dreams. **SHE IS THE PERFECT FORM OF WOMEN TO EVER EXIST ON THIS GOD FORSAKEN WORLD!!!** Ohhhhhhh just **THINKING** of her makes me **CUM SO MUCH.** I wish everyone would understand **HOW INDESCRIBABLY HOT BUZZETTE IS,** but at the same time I don't, that way **NO ONE ELSE** would love her except for *me.* 
@@ -484,18 +361,65 @@ I'd even go as far to say that I would pay millions of dollars to supercell to m
 
 please…"
 ---
+body+title: ["el primo", "primo", "el freako"]
+comment: "#I FUCKING LOVE EL FREAKO!!!!
 
 
+**GOD!!!** tall and muscular men make my Hot Doug (If you know what I mean) go as hard as Doug's one! Every time I've open Freak stars, I go to play El Freako, but **MANNNNNN** I always win to the point that it's annoying!!! Why you may ask? Because my enemies are constantly **FREAKING** their **FREAK** and playing ***With one left hand!!!!*** 
+
+
+**MAN!!!!!** nobody can beat my urge of wanting El Freako in my life, and if he was..."
+---
+body+title: ["bo", "peep", "bo peep"]
+comment: "Isn't her name bo peep?"
+---
+body+title: ["hay day"]
+Comment: "hello hay day friends. all the new events and decorations every month are appreciated... but what about some real new stuff like new crops and trees?, mini games?, more wild animals for the reserve and the farm?, more things and buildings for the village? i’ve given several suggestions in the past but here they go again.
+
+new crop: avocados and you can make guacamole, avocado salad... peas, beans...
+
+new trees like the walnut tree to get walnuts or the chestnut tree for chestnuts... very autumnal by the way. to make chestnut cake or pie, dried fruit salad...
+
+new birds like the parrot, the pheasant,... the rooster (there are hens, there are chicks but where’s the rooster?).
+
+farm animals like the hedgehog or the common turkey.
+
+more animals for the reserve: rhinoceroses, kangaroo, bears, lions, snakes, eagles, hawks, vultures.
+
+New sea fishing area to fish for octopus, tuna, sea bream, shark, whales, dolphins, seahorses, puffer fish, clown fish, swordfish, squid, surgeon fish... and to be able to make a beautiful aquarium!
+
+New machines like the furniture factory to use the wood from so many sawed trees. You can make chairs, tables, wardrobes, beds, mirrors, coat racks...
+
+A mine minigame to extract precious stones like rubies, emeralds, topaz, opals, aquamarines... and diamonds. There would be a new character. Mike the miner and he goes through galleries with his pickaxe. Some are harder and need dynamite and there he could find precious stones. But watch out for the bats that would make you lose everything!
+
+New buildings for the town like the museum, the police station, the fire station, the church, the mill, the library, the hospital...
+
+and for now that’s enough. Let’s see which of all these ideas you do. I hope you get them all, since I’ve been sending them to you for a long time and I’d love to see them in the game.
+
+I thank you for including my other suggestions, such as the peacock and the other birds, the penguins, the tortilla stand with the potato omelette (typical Spanish)... keep it up.
+
+Oh, a suggestion. You’re making more and more things that you have to pay for with real money, which makes them expensive. I’m one of those who pay, but I’m getting poorer and poorer... please cut costs."
 
 # Content Regulation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
+
 ---
-# Automoderator spam removal
+#OP locks comment
 type: comment
-body: "So first you wanna rg post opinion based op ebarb mighty miner is daddy fr 2.6 hog xbox knight real clash royale archers hi wrong musketeer elder broken main sub mirror problem archer queen crusher 21 oi sex ebarbs same deck sparky walter cannon game graveyard meganut b-rad bowler snowball bm lumberloon chicken shit sigma math trans quandale dingle source circlejerk removed busted africa gold fish breaking bad saul goodman best girl mega minion oj bm balloon hypothetically sauce chest monk eat thank you gg royal recruits this game crcj kfc jacking off kanye en passant thug shaker zap smashroyale golden knight nsfw beer mexican boom arena ripoff bing chilling healer automod is sentient has fallen 30 seconds dark prince george bush mods saul goodman"
-action: remove
+author:
+    is_submitter: true
+body: "!lock"
+set_locked: true
+moderators_exempt: false
+---
+# Fun script for Automod testing
+type: comment
+body: test successful
+author:
+   is_moderator: true
+comment: Good work m8
 ---
 title+body (includes): ["u/nicolenyte", "nicolenyte", "nicoleatnyte", "nicole nyte", "nicole nyte"]
 action: remove
@@ -583,34 +507,10 @@ modmail_subject: Bitch Ass Words
 ---
 # Automoderator spam removal
 type: comment
-body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder"
-action: remove
-action_reason: "Spamming automod get a life kek"
-modmail: this mfer should probably be banned, look into it
-modmail_subject: Spamming Automod
----
-# Automoderator spam removal
-type: comment
-body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder"
-action: remove
-action_reason: "Spamming automod get a life kek"
-modmail: this mfer should probably be banned, look into it 
-modmail_subject: Spamming Automod
----
-# Automoderator spam removal
-type: comment
 body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder Kanye Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder Kanye"
 action: remove
 action_reason: "Spamming automod get a life kek"
 modmail: this mfer should probably be banned, look into it
-modmail_subject: Spamming Automod
----
-# Automoderator spam removal
-type: comment
-body: "Morbius valkyrie elder archer queen feet pics sparky bowler snowball hog rider hog rida problem child fatherless 2.6 ebarbs cope lumberloon op nerf miner bm’ing bm fr real sex broken card b rad b-rad elder"
-action: remove
-action_reason: "Spamming automod get a life kek"
-modmail: this mfer should probably be banned, look into it 
 modmail_subject: Spamming Automod
 ---
 # Karma and account age requirement
@@ -631,6 +531,7 @@ action: remove
 
 
 # Useful Scripts ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 
@@ -664,10 +565,150 @@ body (regex, includes-word):
 action: remove
 action_reason: "Comment pinging a video downloading bot"
 ---
-# Fun script for Automod testing
-type: comment
-body: test successful
-author:
-   is_moderator: true
-comment: Good work m8
+
+
+#Chester Automod shit
+body+title: ["Chester"]
+id (regex, ends-with): '[a]'
+comment: "Did you know that *99%* of gamblers quit before hitting a gazillion dollars?"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[b]'
+comment: "Let's go gambling! *Grrr aw dang it!*"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[c]'
+comment: "Giggle giggle, gamble makes me gaggle."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[d]'
+comment: "Gambling goes brrrrr"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[e]'
+comment: "Trust me next time you’re gonna hit *big*"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[f]'
+comment: "Heads, you win, tails, your head gets blown off"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[g]'
+comment: "I’m going to put a pipe bomb in your mailbox"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[h]'
+comment: "You can lose *100%* while gambling. You can gain *2000%.* Do the math."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[i]'
+comment: "If I roll a two you have to get on your knees"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[j]'
+comment: "I would like to apologize for not gambling this weekend"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[k]'
+comment: "Tuesdays are for slots. Saturdays too."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[l]'
+comment: "I’m a professional gambling addict, AMA"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[m]'
+comment: "Always, and trust me on that, **ALWAYS** bet on black. Works ***100%*** of the time."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[n]'
+comment: "***Chester says:*** This is why you go gambling kids!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[o]'
+comment: "**AWOOGA?!** Chester **THE** Clussy?! Can I whoopie his cussion pls :3 ?"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[p]'
+comment: "Big numbers! I want to see big numbers! **BIG** and **STRONG** numbers..."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[q]'
+comment: "If I roll poprocks **ONE MORE TIME** I swear I’ll bomb Serbia again"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[r]'
+comment: "Wanna quit gambling? Momma didn’t raise no quitter!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[s]'
+comment: "**YEAHHH I FUCKING LOVE CHESTER’S SPRAY ABILITY!!!!!** wait- what was it called again?"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[t]'
+comment: "Put your left kidney on red"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[u]'
+comment: "There’s a *50%* chance you become rich from gambling, you either win big or you don’t."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[v]'
+comment: "Thank you all for making me look good! I love that."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[w]'
+comment: "Mom look! I'm on the Automod!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[x]'
+comment: "**GAMBLING!?!!?** I’ve been gambling for over 6 years straight and the best part is that I’m not even addicted!!!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[y]'
+comment: "The ABC of life: arcade machines, blackjack and casinos."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[z]'
+comment: "I feel my bones rattling waiting to gamble, I’ve got to dedication to the art form."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[0]'
+comment: "Win Big! Get Big!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[1]'
+comment: "Not a single Edgar main in sight, just people living in the moment!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[2]'
+comment: "Did you know Mandy’s boobs are smaller than Berry’s?"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[3]'
+comment: "You know what they say. A gamble a day keeps the Edger’s away!"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[4]'
+comment: 'Here’s your fortune cookie: "A hypercharged Colette is approaching your location at 834 miles per hour?" How fun!'
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[5]'
+comment: "Oh **WHAT** super will it be?"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[6]'
+comment: "I’m putting Mandy’s virginity on black"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[7]'
+comment: "What do you mean gambling addiction? There is no such thing, it is actually called *dedication.*"
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[8]'
+comment: "All luck, no skill."
+---
+body+title: ["Chester"]
+id (regex, ends-with): '[9]'
+comment: "Watch me as i move in a- wait what was the line?"
 ---
