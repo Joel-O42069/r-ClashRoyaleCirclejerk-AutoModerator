@@ -1,6 +1,6 @@
-This is the entire Automoderator of r/ClashRoyaleCirclejerk, last changed as of the 7th of September, 2024
+This is the entire Automoderator of r/ClashRoyaleCirclejerk, last changed as of the 19th of June, 2025
 
-Feel free to use whatever you want for this, or suggest changes :)
+Feel free to use whatever you want for this (some of this stuff is useful) or suggest changes :)
 
 Many of the content regulation scripts here were written by or modified from others much smarter than me lol, I didn't come up with them. Vast majority of the meme responses were written by members of ClashRoyaleCirclejerk, thank y'all for your contributions.
 
